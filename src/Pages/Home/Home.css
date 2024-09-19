@@ -1,0 +1,404 @@
+/* section1 start */
+
+.section1 {
+  background-image: url("../../../src/assets/homebgimg.png");
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: 100% 100%;
+  display: flex;
+  align-items: center;
+  height: 65.4rem;
+  position: relative;
+  padding: 0;
+  margin: 0;
+  background-color: rgba(0, 0, 0, 0.2);
+  animation: backgroundAnimation 5s ease-in-out forwards;
+}
+
+.section1::before {
+  content: "";
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  background: linear-gradient(
+    to right,
+    rgba(0, 0, 0, clamp(0.3, 0.5, 0.7)) 0%,
+    rgba(0, 0, 0, 0) 50%
+  );
+  backdrop-filter: blur(clamp(5px, 1vw, 10px));
+  clip-path: polygon(0 0, 50% 0, 50% 100%, 0 100%);
+  z-index: 1;
+  pointer-events: none;
+}
+
+@keyframes backgroundAnimation {
+  0% {
+    background-position: center;
+    background-size: 100% 100%;
+  }
+  100% {
+    background-position: center top;
+    background-size: 110% 110%; /* Slight zoom effect */
+  }
+}
+
+.section1:hover {
+  animation: backgroundAnimation 2s ease-in-out forwards;
+}
+
+.section1__left {
+  z-index: 2;
+  width: 54rem;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: flex-start;
+  padding-left: 29.5rem;
+}
+
+.section1__left p {
+  font-family: Poppins;
+  font-size: 1.6rem;
+  font-weight: 500;
+  line-height: 2.72rem;
+}
+
+.section1__left h2 {
+  font-family: Poppins;
+  font-size: 4.8rem;
+  font-weight: 700;
+  line-height: 7.2rem;
+  width: 80%;
+}
+
+.btn__enquiry {
+  font-family: Open Sans;
+  font-size: 1.6rem;
+  font-weight: 700;
+  line-height: 2.179rem;
+  text-align: left;
+  background-color: #e48e33;
+  padding: 1.6rem 2.4rem;
+  border-radius: 0.4rem;
+  color: #fff;
+  width: 25%;
+}
+
+/* section1 end */
+
+/* section2 start about */
+
+.about__sec1 {
+  display: flex;
+  flex-direction: row;
+  gap: 4.8rem;
+  padding: 12.8rem 0 5rem 0;
+  justify-content: space-between;
+}
+
+.about__sec1__img img {
+  width: 57.5rem;
+  height: 50.2rem;
+  border-radius: 1rem;
+}
+
+.about__sec1__text {
+  width: 49.5rem;
+}
+
+.about__sec1__text h6 {
+  font-family: Roboto;
+  font-size: 1.8rem;
+  font-weight: 500;
+  line-height: 3.2rem;
+  color: #e48e33;
+}
+
+.about__sec1__text h3 {
+  font-family: Poppins;
+  font-size: 4.6rem;
+  font-weight: 600;
+  line-height: 5.6rem;
+  letter-spacing: -0.03em;
+  padding: 0 0 4.5rem 0;
+}
+
+.about__sec1__text p {
+  font-family: Poppins;
+  font-size: 1.6rem;
+  font-weight: 400;
+  line-height: 2.083rem;
+  letter-spacing: 0.02em;
+}
+
+.img4__icon {
+  width: 100%;
+  padding: 4.5rem 0;
+}
+
+.img4__icon img {
+  width: 25%;
+  /* width: 10.636rem;
+  height: 7.791rem; */
+}
+
+.btn__see__more {
+  padding: 1.6rem 1.2rem;
+  gap: 1rem;
+  border-radius: 0.4rem;
+  border: 2px solid #e48e33;
+  background-color: #fff;
+  cursor: pointer;
+  display: flex;
+  align-items: center;
+  text-decoration: none;
+}
+
+.btn__see__more img {
+  width: 2rem;
+  height: 2rem;
+}
+
+/* section 3 projects strat */
+
+.projects__sec3 h2,
+.services__sec4 h2 {
+  font-family: Poppins;
+  font-size: 6.3rem;
+  font-weight: 500;
+  line-height: 10.71rem;
+  letter-spacing: 0.02em;
+  text-align: left;
+  margin: 4rem 14rem 3.5rem 7rem;
+  color: #000;
+}
+
+.swiper {
+  width: 100%;
+  height: 100%;
+}
+
+.swiper-slide {
+  text-align: center;
+  font-size: 1.8rem;
+  background: #fff;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.swiper-slide img {
+  display: block;
+  width: 100%;
+  object-fit: cover;
+}
+
+/* section 5 service blue start */
+
+.service__blue {
+  background-color: #047cd1;
+  padding: 6rem 0;
+  margin-top: 2rem;
+}
+
+.service__blue > .container {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  gap: 3.6rem;
+  justify-content: space-between;
+}
+
+.service__blue > .container > img {
+  width: 9.9rem;
+  height: 9.9rem;
+}
+
+.service__blue > .container p {
+  font-family: Poppins;
+  font-size: 2.5rem;
+  font-weight: 600;
+  line-height: 5.4rem;
+  text-align: left;
+  color: #fff;
+}
+
+.btn__schedule__service > img {
+  width: 2rem;
+  height: 2rem;
+  color: #e48e33;
+  cursor: pointer;
+}
+
+.btn__schedule__service {
+  font-family: Open Sans;
+  font-size: 16px;
+  font-weight: 700;
+  line-height: 21.79px;
+  text-align: center;
+  background-color: #fff;
+  width: 15rem;
+  display: flex;
+  align-items: center;
+  padding: 1.5rem 0 1.5rem 1rem;
+  border-radius: 0.4rem;
+}
+
+/* section 5 service blue end */
+
+/* section 6  our partner start */
+
+.our__partner__sec6 {
+  margin: 6rem 14rem 3.5rem 14rem;
+}
+
+.our__partner__sec6 h2 {
+  font-family: Roboto;
+  font-size: 4.8rem;
+  font-weight: 700;
+  line-height: 6.249rem;
+  letter-spacing: 0.02em;
+  text-align: center;
+  color: #000;
+}
+.partners {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 8rem;
+}
+
+.partner__logo {
+  width: 18rem;
+  height: 10rem;
+}
+
+.partners__list {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 8rem;
+}
+
+.home__services,
+.home__projects {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  gap: 2.4rem;
+}
+
+@media screen and (max-width: 320px) {
+  /* section1 start */
+
+  .section1 {
+    height: auto;
+    object-fit: cover;
+  }
+
+  .section1__left {
+    padding-left: 1rem;
+  }
+
+  .section1__left > .container {
+    padding-left: 1rem;
+    width: 98%;
+  }
+
+  .section1__left h2 {
+    font-size: 1.7rem;
+    line-height: 2.6rem;
+    width: 70%;
+  }
+
+  .section1__left p {
+    font-size: 1.5rem;
+    line-height: 1.6rem;
+    width: 75%;
+  }
+
+  .btn__enquiry {
+    font-size: 1rem;
+    padding: 0.8rem 1.2rem;
+    text-align: center;
+    width: 30%;
+  }
+
+  /* section 2 start */
+
+  .about__sec1 {
+    display: flex;
+    flex-wrap: wrap;
+  }
+
+  .about__sec1__img img {
+    width: 90%;
+    height: auto;
+  }
+
+  .about__sec1__text {
+    width: 85%;
+  }
+
+  .about__sec1__text h3 {
+    font-size: 3.4rem;
+  }
+
+  /* section 2 end */
+
+  /* section 3 projects start */
+  /* section 4 services start */
+
+  .projects__sec3 h2,
+  .services__sec4 h2 {
+    font-size: 4.3rem;
+    line-height: 10.71rem;
+    text-align: left;
+    margin: 6rem 3.5rem;
+  }
+
+
+
+  /* section5 service blue start */
+
+  .service__blue > .container {
+    display: flex;
+    flex-wrap: wrap;
+    align-items: center;
+    gap: 3.6rem;
+    justify-content: center;
+  }
+
+  .service__blue > .container > img {
+    width: 6.9rem;
+    height: 6.9rem;
+  }
+
+  .service__blue > .container > p {
+    width: 85%;
+  }
+
+  .btn__schedule__service > img {
+    width: 2rem;
+    height: 2rem;
+    color: #e48e33;
+    cursor: pointer;
+  }
+
+  .btn__schedule__service {
+    font-size: 1.5rem;
+  }
+
+  .link__btn {
+    text-decoration: none;
+  }
+
+  .our__partner__sec6 {
+    margin: 4rem;
+  }
+  .partners {
+    display: flex;
+    /* flex-direction: column; */
+    justify-content: center;
+  }
+}

@@ -1,0 +1,166 @@
+.pro__detail__sec {
+  padding-top: 5.8rem;
+}
+
+.pro__detail__up {
+  width: 100%;
+  border-radius: 1rem;
+  display: flex;
+  flex-direction: row;
+  gap: 3rem;
+}
+
+.detail__date ul {
+  padding: 9.2rem 6.3rem;
+  background-color: #047cd1;
+}
+
+.pro__detail__up img {
+  width: 60%;
+  border-radius: 1rem;
+  object-fit: cover;
+}
+
+.detail__date {
+  width: 30%;
+  height: auto;
+}
+
+.detail__date ul > li {
+  display: flex;
+  flex-direction: column;
+  font-family: Roboto;
+  font-size: 2.4rem;
+  font-weight: 400;
+  line-height: 2.813rem;
+  letter-spacing: 0.02em;
+  text-align: left;
+  color: #fff;
+}
+
+.detail__date ul {
+  list-style: none;
+  display: flex;
+  flex-direction: column;
+  gap: 3rem;
+}
+
+.detail__date ul > li > strong {
+  font-family: Roboto;
+  font-size: 2.4rem;
+  font-weight: 600;
+  line-height: 2.813rem;
+  letter-spacing: 0.02em;
+  text-align: left;
+  color: #e48e33;
+}
+
+.pro__detail__text {
+  padding: 8.3rem 0;
+}
+
+.pro__detail__text > h4,
+.pro__detail__text p,
+.prev__next {
+  width: 60%;
+}
+
+.pro__detail__text h4 {
+  font-family: Poppins;
+  font-size: 4.6rem;
+  font-weight: 600;
+  line-height: 5.6rem;
+  letter-spacing: -0.03em;
+  text-align: left;
+  padding-bottom: 3.6rem;
+}
+
+.pro__detail__text p {
+  font-family: Poppins;
+  font-size: 1.6rem;
+  font-weight: 400;
+  line-height: 2.083rem;
+  letter-spacing: 0.02em;
+  text-align: left;
+}
+
+.prev__next {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  border-top: 1px solid #000;
+  border-bottom: 1px solid #000;
+  padding: 3rem 0;
+  margin: 3.6rem 0;
+}
+
+.btn__prev__next, .btn__prev__next > p  {
+  color: #e48e33;
+  font-family: Roboto;
+  font-size: 1.6rem;
+  font-weight: 600;
+  line-height: 1.875rem;
+  letter-spacing: 0.02em;
+  background-color: #fff;
+  display: flex;
+  flex-direction: column;
+  cursor: pointer;
+}
+
+
+.prev__next h6 {
+  font-family: Poppins;
+  font-size: 1.6rem;
+  font-weight: 500;
+  line-height: 2.72rem;
+  text-align: left;
+  color: #000;
+}
+
+.btn__prev__next:hover {
+  border-bottom: 1px solid #e48e33;
+}
+
+
+.prev__next > .btn__prev__next > p {
+  text-align: right;
+  margin-left: auto;
+}
+
+
+@media screen and (max-width: 320px) {
+  .pro__detail__up {
+    display: flex;
+    flex-wrap: wrap;
+  }
+
+  .pro__detail__up img {
+    width: 80%;
+    height: auto;
+    border-radius: 1rem;
+  }
+
+  .detail__date {
+    width: 80%;
+    height: auto;
+  }
+
+  .detail__date ul > li > strong {
+    font-size: 1.5rem;
+  }
+
+  .pro__detail__text > h4,
+  .pro__detail__text p,
+  .prev__next {
+    width: 80%;
+  }
+
+  .detail__date ul {
+    padding: 5rem 4rem;
+  }
+
+  .next h6 {
+    text-align: right;
+  }
+  
+}

@@ -1,0 +1,42 @@
+.each__page__head {
+  width: 100%;
+  height: 43.6rem;
+  background-position: top;
+  background-size: cover;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  object-fit: cover;
+  /* background-color: rgba(0, 0, 0, 0.2); */
+}
+
+.each__page__head__title {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  width: 100%;
+  height: 100%;
+  backdrop-filter: brightness(0.8);
+  text-align: center;
+}
+
+.each__page__head h2 {
+  position: relative;
+  font-family: Roboto;
+  font-size: 36px;
+  font-weight: 700;
+  line-height: 46.87px;
+  letter-spacing: 0.02em;
+  color: #fff;
+}
+
+@media screen and (max-width: 320px) {
+ .each__page__head{
+  width: 100%;
+ }
+ 
+  .each__page__head--title {
+    width: 90%;
+    text-align: center;
+  }
+}

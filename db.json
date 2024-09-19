@@ -1,0 +1,2644 @@
+{
+  "navBar": {
+    "Eng": {
+      "home": "Home",
+      "services": "Our Services",
+      "projects": "Projects",
+      "contact": "Contact Us",
+      "partners": "Our Partners",
+      "about": "About Us",
+      "blogs": "Blogs",
+      "follow": "Follow Us",
+      "ems": "EMS Contracting",
+      "sec1p": "Delivering first-class commercial maintenance nation wide 24/7",
+      "sec1BtnEnquiry": "Make An Enquiry",
+      "searchPlaceholder": "Search",
+      "btnBlueSec": "Schedule a Service",
+      "blueSec": "You will be satisfy with our work contact us today & help is on the way",
+      "titleForm": "Get in Touch",
+      "pForm": "Services from us are trusted, reliable and professional. Please fill out the form completely, and we will get back to you as soon as possible",
+      "btnForm": "send",
+      "nameForm": "Name",
+      "emailForm": "Email",
+      "phoneForm": "Phone Number",
+      "fax": "Fax",
+      "selectForm": "How did you find us?",
+      "optionForm": "Social Media",
+      "getIn": "Get In",
+      "touch": "Touch",
+      "selectContact": "How did you find us?",
+      "optionContact": "Social Media",
+      "engLang": "English",
+      "rusLang": "Russian",
+      "azLang": "Azerbaijani",
+      "footerDownStart": "Made with ❤️ by ",
+      "footerSpan1": "Deepak",
+      "footerSpan2": "Creative Tweaks",
+      "footerDownEnd": "for a better web"
+    },
+
+    "Rus": {
+      "home": "Главная страница",
+      "services": "Наши услуги",
+      "projects": "Проекты",
+      "contact": "Свяжитесь с нами",
+      "partners": "Наши партнеры",
+      "about": "О нас",
+      "blogs": "Блоги",
+      "ems": "EMS Контрактинг",
+      "sec1p": "Предоставление первоклассного коммерческого обслуживания по всей стране 24/7",
+      "sec1BtnEnquiry": "Сделать запрос",
+      "follow": "Подписывайтесь на нас",
+      "searchPlaceholder": "Поиск",
+      "btnBlueSec": "Запланировать обслуживание",
+      "blueSec": "Вы останетесь довольны нашей работой, свяжитесь с нами сегодня, и помощь уже в пути.",
+      "titleForm": "Свяжитесь с нами",
+      "pForm": "Наши услуги надежны, надежны и профессиональны. Пожалуйста, заполните форму полностью, и мы свяжемся с вами как можно скорее",
+      "btnForm": "отправить",
+      "nameForm": "Имя",
+      "emailForm": "Электронная почта",
+      "phoneForm": "Номер телефона",
+      "fax": "Факс",
+      "selectForm": "Как вы нас нашли?",
+      "optionForm": "Социальные сети",
+      "teamTitle": "ЗНАКОМЬТЕСЬ С НАШЕЙ ЛУЧШЕЙ КОМАНДОЙ",
+      "getIn": "Свяжитесь с",
+      "touch": "нами",
+      "selectContact": "Как вы нас нашли?",
+      "optionContact": "Социальные сети",
+      "engLand": "Английский",
+      "rusLang": "Русский",
+      "azLang": "Азербайджанкий",
+      "footerDownStart": " с ❤️ ",
+"footerSpan1": "Deepak",
+"footerSpan2": "Креативные настройки",
+"footerDownEnd": "Сделано для лучшего веба"
+    },
+    "Az": {
+      "home": "Ana Səhifə",
+      "services": "Xidmətlərimiz",
+      "projects": "Layihələr",
+      "contact": "Bizimlə əlaqə",
+      "partners": "Tərəfdaşlarımız",
+      "about": "Haqqımızda",
+      "blogs": "Bloqlar",
+      "follow": "Bizi izləyin",
+      "ems": "EMS Müqavilə",
+      "sec1p": "24/7 ölkə daxilində birinci dərəcəli kommersiya xidmətinin göstərilməsi",
+      "sec1BtnEnquiry": "Sorğu aparın",
+      "searchPlaceholder": "Axtar",
+      "btnBlueSec": "Xidməti planlaşdırın",
+      "blueSec": "Siz bizim işimizdən razı qalacaqsınız, bu gün bizimlə əlaqə saxlayın və kömək yoldadır",
+      "titleForm": "Əlaqə əldə edin",
+      "pForm": "Bizim xidmətlər etibarlı, etibarlı və peşəkardır. Zəhmət olmasa formanı tam doldurun, biz sizə ən qısa zamanda cavab verəcəyik",
+      "btnForm": "göndər",
+      "nameForm": "Ad",
+      "emailForm": "E-poçt",
+      "phoneForm": "Telefon nömrəsi",
+      "fax": "Faks",
+      "selectForm": "Bizi necə tapdınız?",
+      "optionForm": "Sosial Media",
+      "teamTitle": "ƏN ƏN YAXŞI KOMANDALARIMIZLA TANIŞ OLUN",
+      "getIn": "Əlaqə",
+      "touch": "Saxlayın",
+      "selectContact": "Bizi necə tapdınız?",
+      "optionContact": "Social Media",
+      "engLand": "İngilis",
+      "rusLang": "Rus",
+      "azLang": "Azərbaycan",
+      "footerDownStart": " ❤️ ilə  ",
+ "footerSpan1": "Deepak",
+ "footerSpan2": "Yaradıcı Tweaks",
+ "footerDownEnd": "daha yaxşı veb üçün hazırlanmışdır"
+    }
+  },
+  "services": {
+    "Eng": [
+      {
+        "id": "1",
+        "title": "Electrical and Mechanical 1",
+        "button": "Book now",
+        "pageName": "Services",
+        "description": "Build modern web applications using React, Node.js, and more.",
+        "image": "/src/assets/contact_head_back_img.jfif",
+        "needHelp": "Need Help?",
+        "helpParagraph": "Find a Handyman In DC For Your Next Task",
+        "btnEnquiry": "Make An Enquiry",
+        "bgImage": "/src/assets/service-detail-head-back.png",
+        "electricalTitle": "Electrical",
+        "mechanicalTitle": "mechanical",
+        "details": {
+          "electrical": [
+            "Domestic installations and maintenance",
+            "Commercial installations and maintenance",
+            "Industrial installations and maintenance",
+            "Bespoke lighting designs",
+            "LED energy saving schemes",
+            "Fixed wiring inspection and testing",
+            "Fault finding and diagnostic",
+            "Portable appliance testing",
+            "PAT testing and other safety testing and inspection"
+          ],
+          "mechanical": [
+            "High velocity lip extraction systems",
+            "Full Gas safety interlock supply and extract systems",
+            "Design, install, and maintain works with in-house workshop facilities"
+          ]
+        }
+      },
+      {
+        "id": "2",
+        "title": "Electrical and Mechanical 2",
+        "button": "Book now",
+        "pageName": "Services",
+        "description": "Design intuitive user interfaces and experiences.",
+        "image": "/src/assets/img3.png",
+        "needHelp": "Need Help?",
+        "helpParagraph": "Find a Handyman In DC For Your Next Task",
+        "btnEnquiry": "Make An Enquiry",
+        "bgImage": "/src/assets/service-detail-head-back.png",
+        "electricalTitle": "Electrical",
+        "mechanicalTitle": "mechanical",
+        "details": {
+          "electrical": [
+            "2Domestic installations and maintenance",
+            "Commercial installations and maintenance",
+            "Industrial installations and maintenance",
+            "Bespoke lighting designs",
+            "Fixed wiring inspection and testing",
+            "Fault finding and diagnostic",
+            "LED energy saving schemes",
+            "Fixed wiring inspection and testing",
+            "Fault finding and diagnostic",
+            "Portable appliance testing",
+            "PAT testing and other safety testing and inspection"
+          ]
+        }
+      },
+      {
+        "id": "3",
+        "title": "Electrical and Mechanical 3",
+        "button": "Book now",
+        "pageName": "Services",
+        "description": "Design intuitive user interfaces and experiences.",
+        "image": "/src/assets/service-detail-img.png",
+        "needHelp": "Need Help?",
+        "helpParagraph": "Find a Handyman In DC For Your Next Task",
+        "btnEnquiry": "Make An Enquiry",
+        "bgImage": "/src/assets/service-detail-head-back.png",
+        "electricalTitle": "Electrical",
+        "mechanicalTitle": "mechanical",
+        "details": {
+          "mechanical": [
+            "3High velocity lip extraction systems",
+            "Full Gas safety interlock supply and extract systems",
+            "Design, install, and maintain works with in-house workshop facilities"
+          ]
+        }
+      },
+      {
+        "id": "4",
+        "title": "Electrical and Mechanical 4",
+        "button": "Book now",
+        "pageName": "Services",
+        "description": "Design intuitive user interfaces and experiences.",
+        "image": "/src/assets/img5.png",
+        "needHelp": "Need Help?",
+        "helpParagraph": "Find a Handyman In DC For Your Next Task",
+        "btnEnquiry": "Make An Enquiry",
+        "bgImage": "/src/assets/service-detail-head-back.png",
+        "electricalTitle": "Electrical",
+        "mechanicalTitle": "mechanical",
+        "details": {
+          "electrical": [
+            "4Domestic installations and maintenance",
+            "Commercial installations and maintenance",
+            "Industrial installations and maintenance",
+            "Portable appliance testing",
+            "PAT testing and other safety testing and inspection"
+          ],
+          "mechanical": [
+            "4High velocity lip extraction systems",
+            "Full Gas safety interlock supply and extract systems"
+          ]
+        }
+      },
+      {
+        "id": "5",
+        "title": "Electrical and Mechanical 5",
+        "button": "Book now",
+        "pageName": "Services",
+        "description": "Design intuitive user interfaces and experiences.",
+        "image": "/src/assets/90cbb105777de2f4dab98747dd3aa1a7.jfif",
+        "needHelp": "Need Help?",
+        "helpParagraph": "Find a Handyman In DC For Your Next Task",
+        "btnEnquiry": "Make An Enquiry",
+        "bgImage": "/src/assets/service-detail-head-back.png",
+        "electricalTitle": "Electrical",
+        "mechanicalTitle": "mechanical",
+        "details": {
+          "electrical": [
+            "5Domestic installations and maintenance",
+            "Commercial installations and maintenance",
+            "Industrial installations and maintenance",
+            "Fixed wiring inspection and testing",
+            "Fault finding and diagnostic",
+            "Portable appliance testing",
+            "PAT testing and other safety testing and inspection"
+          ]
+        }
+      },
+      {
+        "id": "6",
+        "title": "Electrical and Mechanical 6",
+        "button": "Book now",
+        "pageName": "Services",
+        "description": "Design intuitive user interfaces and experiences.",
+        "image": "/src/assets/projects-detail-img.png",
+        "needHelp": "Need Help?",
+        "helpParagraph": "Find a Handyman In DC For Your Next Task",
+        "btnEnquiry": "Make An Enquiry",
+        "bgImage": "/src/assets/service-detail-head-back.png",
+        "electricalTitle": "Electrical",
+        "mechanicalTitle": "mechanical",
+        "details": {
+          "mechanical": [
+            "6High velocity lip extraction systems",
+            "Full Gas safety interlock supply and extract systems",
+            "Design, install, and maintain works with in-house workshop facilities"
+          ]
+        }
+      },
+      {
+        "id": "7",
+        "title": "Electrical and Mechanical 7",
+        "button": "Book now",
+        "pageName": "Services",
+        "description": "Design intuitive user interfaces and experiences.",
+        "image": "/src/assets/service-detail-img.png",
+        "needHelp": "Need Help?",
+        "helpParagraph": "Find a Handyman In DC For Your Next Task",
+        "btnEnquiry": "Make An Enquiry",
+        "bgImage": "/src/assets/service-detail-head-back.png",
+        "electricalTitle": "Electrical",
+        "mechanicalTitle": "mechanical",
+        "details": {
+          "electrical": [
+            "7Domestic installations and maintenance",
+            "Commercial installations and maintenance",
+            "Fault finding and diagnostic",
+            "Portable appliance testing",
+            "PAT testing and other safety testing and inspection"
+          ]
+        }
+      },
+      {
+        "id": "8",
+        "title": "Electrical and Mechanical 8",
+        "button": "Book now",
+        "pageName": "Services",
+        "description": "Design intuitive user interfaces and experiences.",
+        "image": "/src/assets/projects-detail-img.png",
+        "needHelp": "Need Help?",
+        "helpParagraph": "Find a Handyman In DC For Your Next Task",
+        "btnEnquiry": "Make An Enquiry",
+        "bgImage": "/src/assets/service-detail-head-back.png",
+        "electricalTitle": "Electrical",
+        "mechanicalTitle": "mechanical",
+        "details": {
+          "electrical": [
+            "8Domestic installations and maintenance",
+            "Commercial installations and maintenance",
+            "Industrial installations and maintenance",
+            "Bespoke lighting designs",
+            "PAT testing and other safety testing and inspection"
+          ],
+          "mechanical": [
+            "8High velocity lip extraction systems",
+            "Design, install, and maintain works with in-house workshop facilities"
+          ]
+        }
+      },
+      {
+        "id": "9",
+        "title": "Electrical and Mechanical 9",
+        "button": "Book now",
+        "pageName": "Services",
+        "description": "Design intuitive user interfaces and experiences.",
+        "image": "/src/assets/90cbb105777de2f4dab98747dd3aa1a7.jfif",
+        "needHelp": "Need Help?",
+        "helpParagraph": "Find a Handyman In DC For Your Next Task",
+        "btnEnquiry": "Make An Enquiry",
+        "bgImage": "/src/assets/service-detail-head-back.png",
+        "electricalTitle": "Electrical",
+        "mechanicalTitle": "mechanical",
+        "details": {
+          "electrical": [
+            "9Domestic installations and maintenance",
+            "Fixed wiring inspection and testing",
+            "Fault finding and diagnostic",
+            "Portable appliance testing",
+            "PAT testing and other safety testing and inspection"
+          ],
+          "mechanical": [
+            "9High velocity lip extraction systems",
+            "Full Gas safety interlock supply and extract systems",
+            "Design, install, and maintain works with in-house workshop facilities"
+          ]
+        }
+      },
+      {
+        "id": "10",
+        "title": "Electrical and Mechanical 10",
+        "button": "Book now",
+        "pageName": "Services",
+        "description": "Design intuitive user interfaces and experiences.",
+        "image": "/src/assets/pro-serv-img.png",
+        "needHelp": "Need Help?",
+        "helpParagraph": "Find a Handyman In DC For Your Next Task",
+        "btnEnquiry": "Make An Enquiry",
+        "bgImage": "/src/assets/service-detail-head-back.png",
+        "electricalTitle": "Electrical",
+        "mechanicalTitle": "mechanical",
+        "details": {
+          "electrical": [
+            "10Domestic installations and maintenance",
+            "Commercial installations and maintenance",
+            "Fixed wiring inspection and testing",
+            "Fault finding and diagnostic",
+            "Portable appliance testing",
+            "PAT testing and other safety testing and inspection"
+          ],
+          "mechanical": [
+            "10High velocity lip extraction systems",
+            "Full Gas safety interlock supply and extract systems"
+          ]
+        }
+      },
+      {
+        "id": "11",
+        "title": "Electrical and Mechanical 11",
+        "button": "Book now",
+        "pageName": "Services",
+        "description": "Build modern web applications using React, Node.js, and more.",
+        "image": "/src/assets/contact_head_back_img.jfif",
+        "needHelp": "Need Help?",
+        "helpParagraph": "Find a Handyman In DC For Your Next Task",
+        "btnEnquiry": "Make An Enquiry",
+        "bgImage": "/src/assets/service-detail-head-back.png",
+        "electricalTitle": "Electrical",
+        "mechanicalTitle": "mechanical",
+        "details": {
+          "electrical": [
+            "Domestic installations and maintenance",
+            "Commercial installations and maintenance",
+            "Industrial installations and maintenance",
+            "Bespoke lighting designs",
+            "LED energy saving schemes",
+            "Fixed wiring inspection and testing",
+            "Fault finding and diagnostic",
+            "Portable appliance testing",
+            "PAT testing and other safety testing and inspection"
+          ],
+          "mechanical": [
+            "High velocity lip extraction systems",
+            "Full Gas safety interlock supply and extract systems",
+            "Design, install, and maintain works with in-house workshop facilities"
+          ]
+        }
+      },
+      {
+        "id": "12",
+        "title": "Electrical and Mechanical 12",
+        "button": "Book now",
+        "pageName": "Services",
+        "description": "Design intuitive user interfaces and experiences.",
+        "image": "/src/assets/img3.png",
+        "needHelp": "Need Help?",
+        "helpParagraph": "Find a Handyman In DC For Your Next Task",
+        "btnEnquiry": "Make An Enquiry",
+        "bgImage": "/src/assets/service-detail-head-back.png",
+        "electricalTitle": "Electrical",
+        "mechanicalTitle": "mechanical",
+        "details": {
+          "electrical": [
+            "2Domestic installations and maintenance",
+            "Commercial installations and maintenance",
+            "Industrial installations and maintenance",
+            "Bespoke lighting designs",
+            "Fixed wiring inspection and testing",
+            "Fault finding and diagnostic",
+            "LED energy saving schemes",
+            "Fixed wiring inspection and testing",
+            "Fault finding and diagnostic",
+            "Portable appliance testing",
+            "PAT testing and other safety testing and inspection"
+          ]
+        }
+      }
+    ],
+    "Rus": [
+      {
+        "id": "1",
+        "title": "Электрика и Механика 1",
+        "pageName": "Услуги",
+        "button": "Забронировать сейчас",
+        "description": "Создавайте современные веб-приложения с использованием React, Node.js и других технологий.",
+        "image": "/src/assets/contact_head_back_img.jfif",
+        "needHelp": "Нужна помощь?",
+        "helpParagraph": "Найти разнорабочего в Вашингтоне для следующей задачи",
+        "btnEnquiry": "Сделать запрос",
+        "bgImage": "/src/assets/service-detail-head-back.png",
+        "electricalTitle": "Электрическое",
+        "mechanicalTitle": "механический",
+        "details": {
+          "electrical": [
+            "Бытовые установки и обслуживание",
+            "Коммерческие установки и обслуживание",
+            "Промышленные установки и обслуживание",
+            "Индивидуальные световые решения",
+            "Энергосберегающие схемы на основе LED",
+            "Проверка и тестирование проводки",
+            "Поиск неисправностей и диагностика",
+            "Тестирование переносных устройств",
+            "Тест PAT и другие проверки безопасности"
+          ],
+          "mechanical": [
+            "Системы высокоскоростного удаления пыли",
+            "Системы вытяжки с газовой блокировкой",
+            "Проектирование, установка и обслуживание с использованием собственных мастерских"
+          ]
+        }
+      },
+      {
+        "id": "2",
+        "title": "Электрика и Механика 2",
+        "pageName": "Услуги",
+        "button": "Забронировать сейчас",
+        "description": "Разрабатывайте интуитивно понятные пользовательские интерфейсы и опыт.",
+        "image": "/src/assets/img3.png",
+        "needHelp": "Нужна помощь?",
+        "helpParagraph": "Найдите разнорабочего в округе Колумбия для вашей следующей задачи",
+        "btnEnquiry": "Сделать запрос",
+        "bgImage": "/src/assets/service-detail-head-back.png",
+        "electricalTitle": "Электрическое",
+        "mechanicalTitle": "механический",
+        "details": {
+          "electrical": [
+            "Бытовые установки и обслуживание",
+            "Коммерческие установки и обслуживание",
+            "Промышленные установки и обслуживание",
+            "Индивидуальные световые решения",
+            "Проверка и тестирование проводки",
+            "Поиск неисправностей и диагностика",
+            "Энергосберегающие схемы на основе LED",
+            "Проверка и тестирование проводки",
+            "Поиск неисправностей и диагностика",
+            "Тестирование переносных устройств",
+            "Тест PAT и другие проверки безопасности"
+          ]
+        }
+      },
+      {
+        "id": "3",
+        "title": "Электрика и Механика 3",
+        "pageName": "Услуги",
+        "button": "Забронировать сейчас",
+        "description": "Разрабатывайте интуитивно понятные пользовательские интерфейсы и опыт.",
+        "image": "/src/assets/service-detail-img.png",
+        "needHelp": "Нужна помощь?",
+        "helpParagraph": "Найдите разнорабочего в округе Колумбия для вашей следующей задачи",
+        "btnEnquiry": "Сделать запрос",
+        "bgImage": "/src/assets/service-detail-head-back.png",
+        "electricalTitle": "Электрическое",
+        "mechanicalTitle": "механический",
+        "details": {
+          "mechanical": [
+            "Системы высокоскоростного удаления пыли",
+            "Системы вытяжки с газовой блокировкой",
+            "Проектирование, установка и обслуживание с использованием собственных мастерских"
+          ]
+        }
+      },
+
+      {
+        "id": "4",
+        "title": "Электрика и Механика 4",
+        "pageName": "Услуги",
+        "button": "Забронировать сейчас",
+        "description": "Разрабатывайте интуитивно понятные пользовательские интерфейсы и опыт.",
+        "image": "/src/assets/img5.png",
+        "needHelp": "Нужна помощь?",
+        "helpParagraph": "Найдите разнорабочего в округе Колумбия для вашей следующей задачи",
+        "btnEnquiry": "Сделать запрос",
+        "bgImage": "/src/assets/service-detail-head-back.png",
+        "electricalTitle": "Электрическое",
+        "mechanicalTitle": "механический",
+        "details": {
+          "electrical": [
+            "Бытовые установки и обслуживание",
+            "Коммерческие установки и обслуживание",
+            "Промышленные установки и обслуживание",
+            "Тестирование переносных устройств",
+            "Тест PAT и другие проверки безопасности"
+          ],
+          "mechanical": [
+            "Системы высокоскоростного удаления пыли",
+            "Системы вытяжки с газовой блокировкой"
+          ]
+        }
+      },
+      {
+        "id": "5",
+        "title": "Электрика и Механика 5",
+        "pageName": "Услуги",
+        "button": "Забронировать сейчас",
+        "description": "Разрабатывайте интуитивно понятные пользовательские интерфейсы и опыт.",
+        "image": "/src/assets/90cbb105777de2f4dab98747dd3aa1a7.jfif",
+        "needHelp": "Нужна помощь?",
+        "helpParagraph": "Найдите разнорабочего в округе Колумбия для вашей следующей задачи",
+        "btnEnquiry": "Сделать запрос",
+        "bgImage": "/src/assets/service-detail-head-back.png",
+        "electricalTitle": "Электрическое",
+        "mechanicalTitle": "механический",
+        "details": {
+          "electrical": [
+            "Бытовые установки и обслуживание",
+            "Коммерческие установки и обслуживание",
+            "Промышленные установки и обслуживание",
+            "Проверка и тестирование проводки",
+            "Поиск неисправностей и диагностика",
+            "Тестирование переносных устройств",
+            "Тест PAT и другие проверки безопасности"
+          ]
+        }
+      },
+      {
+        "id": "6",
+        "title": "Электрика и Механика 6",
+        "pageName": "Услуги",
+        "button": "Забронировать сейчас",
+        "description": "Разрабатывайте интуитивно понятные пользовательские интерфейсы и опыт.",
+        "image": "/src/assets/projects-detail-img.png",
+        "needHelp": "Нужна помощь?",
+        "helpParagraph": "Найдите разнорабочего в округе Колумбия для вашей следующей задачи",
+        "btnEnquiry": "Сделать запрос",
+        "bgImage": "/src/assets/service-detail-head-back.png",
+        "electricalTitle": "Электрическое",
+        "mechanicalTitle": "механический",
+        "details": {
+          "mechanical": [
+            "Системы высокоскоростного удаления пыли",
+            "Системы вытяжки с газовой блокировкой",
+            "Проектирование, установка и обслуживание с использованием собственных мастерских"
+          ]
+        }
+      },
+      {
+        "id": "7",
+        "title": "Электрика и Механика 7",
+        "pageName": "Услуги",
+        "button": "Забронировать сейчас",
+        "description": "Разрабатывайте интуитивно понятные пользовательские интерфейсы и опыт.",
+        "image": "/src/assets/service-detail-img.png",
+        "needHelp": "Нужна помощь?",
+        "helpParagraph": "Найдите разнорабочего в округе Колумбия для вашей следующей задачи",
+        "btnEnquiry": "Сделать запрос",
+        "bgImage": "/src/assets/service-detail-head-back.png",
+        "electricalTitle": "Электрическое",
+        "mechanicalTitle": "механический",
+        "details": {
+          "electrical": [
+            "Бытовые установки и обслуживание",
+            "Коммерческие установки и обслуживание",
+            "Поиск неисправностей и диагностика",
+            "Тестирование переносных устройств",
+            "Тест PAT и другие проверки безопасности"
+          ]
+        }
+      },
+      {
+        "id": "8",
+        "title": "Электрика и Механика 8",
+        "pageName": "Услуги",
+        "button": "Забронировать сейчас",
+        "description": "Разрабатывайте интуитивно понятные пользовательские интерфейсы и опыт.",
+        "image": "/src/assets/projects-detail-img.png",
+        "needHelp": "Нужна помощь?",
+        "helpParagraph": "Найдите разнорабочего в округе Колумбия для вашей следующей задачи",
+        "btnEnquiry": "Сделать запрос",
+        "bgImage": "/src/assets/service-detail-head-back.png",
+        "electricalTitle": "Электрическое",
+        "mechanicalTitle": "механический",
+        "details": {
+          "electrical": [
+            "Бытовые установки и обслуживание",
+            "Коммерческие установки и обслуживание",
+            "Промышленные установки и обслуживание",
+            "Индивидуальные проекты освещения",
+            "Тест PAT и другие проверки безопасности"
+          ],
+          "mechanical": [
+            "Системы высокоскоростного удаления пыли",
+            "Проектирование, установка и обслуживание с использованием собственных мастерских"
+          ]
+        }
+      },
+      {
+        "id": "9",
+        "title": "Электрика и Механика 9",
+        "pageName": "Услуги",
+        "button": "Забронировать сейчас",
+        "description": "Разрабатывайте интуитивно понятные пользовательские интерфейсы и опыт.",
+        "image": "/src/assets/90cbb105777de2f4dab98747dd3aa1a7.jfif",
+        "needHelp": "Нужна помощь?",
+        "helpParagraph": "Найдите разнорабочего в округе Колумбия для вашей следующей задачи",
+        "btnEnquiry": "Сделать запрос",
+        "bgImage": "/src/assets/service-detail-head-back.png",
+        "electricalTitle": "Электрическое",
+        "mechanicalTitle": "механический",
+        "details": {
+          "electrical": [
+            "Бытовые установки и обслуживание",
+            "Проверка и тестирование проводки",
+            "Поиск неисправностей и диагностика",
+            "Тестирование переносных устройств",
+            "Тест PAT и другие проверки безопасности"
+          ],
+          "mechanical": [
+            "Системы высокоскоростного удаления пыли",
+            "Системы вытяжки с газовой блокировкой",
+            "Проектирование, установка и обслуживание с использованием собственных мастерских"
+          ]
+        }
+      },
+      {
+        "id": "10",
+        "title": "Электрика и Механика 10",
+        "pageName": "Услуги",
+        "button": "Забронировать сейчас",
+        "description": "Разрабатывайте интуитивно понятные пользовательские интерфейсы и опыт.",
+        "image": "/src/assets/pro-serv-img.png",
+        "needHelp": "Нужна помощь?",
+        "helpParagraph": "Найдите разнорабочего в округе Колумбия для вашей следующей задачи",
+        "btnEnquiry": "Сделать запрос",
+        "bgImage": "/src/assets/service-detail-head-back.png",
+        "electricalTitle": "Электрическое",
+        "mechanicalTitle": "механический",
+        "details": {
+          "electrical": [
+            "Бытовые установки и обслуживание",
+            "Коммерческие установки и обслуживание",
+            "Проверка и тестирование проводки",
+            "Поиск неисправностей и диагностика",
+            "Тестирование переносных устройств",
+            "Тест PAT и другие проверки безопасности"
+          ],
+          "mechanical": [
+            "Системы высокоскоростного удаления пыли",
+            "Системы вытяжки с газовой блокировкой"
+          ]
+        }
+      },
+      {
+        "id": "11",
+        "title": "Электрика и Механика 11",
+        "pageName": "Услуги",
+        "button": "Забронировать сейчас",
+        "description": "Создавайте современные веб-приложения с использованием React, Node.js и других технологий.",
+        "image": "/src/assets/contact_head_back_img.jfif",
+        "needHelp": "Нужна помощь?",
+        "helpParagraph": "Найдите разнорабочего в округе Колумбия для вашей следующей задачи",
+        "btnEnquiry": "Сделать запрос",
+        "bgImage": "/src/assets/service-detail-head-back.png",
+        "electricalTitle": "Электрическое",
+        "mechanicalTitle": "механический",
+        "details": {
+          "electrical": [
+            "Бытовые установки и обслуживание",
+            "Коммерческие установки и обслуживание",
+            "Промышленные установки и обслуживание",
+            "Индивидуальные световые решения",
+            "Энергосберегающие схемы на основе LED",
+            "Проверка и тестирование проводки",
+            "Поиск неисправностей и диагностика",
+            "Тестирование переносных устройств",
+            "Тест PAT и другие проверки безопасности"
+          ],
+          "mechanical": [
+            "Системы высокоскоростного удаления пыли",
+            "Системы вытяжки с газовой блокировкой",
+            "Проектирование, установка и обслуживание с использованием собственных мастерских"
+          ]
+        }
+      },
+      {
+        "id": "12",
+        "title": "Электрика и Механика 12",
+        "pageName": "Услуги",
+        "button": "Забронировать сейчас",
+        "description": "Разрабатывайте интуитивно понятные пользовательские интерфейсы и опыт.",
+        "image": "/src/assets/img3.png",
+        "needHelp": "Нужна помощь?",
+        "helpParagraph": "Найдите разнорабочего в округе Колумбия для вашей следующей задачи",
+        "btnEnquiry": "Сделать запрос",
+        "bgImage": "/src/assets/service-detail-head-back.png",
+        "electricalTitle": "Электрическое",
+        "mechanicalTitle": "механический",
+        "details": {
+          "electrical": [
+            "Бытовые установки и обслуживание",
+            "Коммерческие установки и обслуживание",
+            "Промышленные установки и обслуживание",
+            "Индивидуальные световые решения",
+            "Проверка и тестирование проводки",
+            "Поиск неисправностей и диагностика",
+            "Энергосберегающие схемы на основе LED",
+            "Проверка и тестирование проводки",
+            "Поиск неисправностей и диагностика",
+            "Тестирование переносных устройств",
+            "Тест PAT и другие проверки безопасности"
+          ]
+        }
+      }
+    ],
+
+    "Az": [
+      {
+        "id": "1",
+        "title": "Elektrik və Mexaniki 1",
+        "pageName": "Xidmətlər",
+        "description": "React, Node.js və daha çoxunu istifadə edərək müasir veb tətbiqləri qurun.",
+        "image": "/src/assets/contact_head_back_img.jfif",
+        "needHelp": "Köməyə ehtiyacınız varmı?",
+        "helpParagraph": "Növbəti işiniz üçün Vaşinqtonda usta tapın",
+        "btnEnquiry": "Sorğu göndərin",
+        "button": "İndi sifariş et",
+        "bgImage": "/src/assets/service-detail-head-back.png",
+        "electricalTitle": "Elektrik",
+        "mechanicalTitle": "mexaniki",
+        "details": {
+          "electrical": [
+            "Məişət quraşdırmaları və texniki xidmət",
+            "Kommersiya quraşdırmaları və texniki xidmət",
+            "Sənaye quraşdırmaları və texniki xidmət",
+            "Fərdi işıqlandırma dizaynları",
+            "LED enerji qənaəti sxemləri",
+            "Sabit naqillərin yoxlanılması və sınağı",
+            "Nasazlıqların tapılması və diaqnostika",
+            "Portativ cihaz testi",
+            "PAT testi və digər təhlükəsizlik yoxlamaları"
+          ],
+          "mechanical": [
+            "Yüksək sürətli dodaq çıxarış sistemləri",
+            "Tam qaz təhlükəsizliyi kilidləmə sistemləri və çıxarış sistemləri",
+            "Dizayn, quraşdırma və daxili emalatxana ilə təmir"
+          ]
+        }
+      },
+      {
+        "id": "2",
+        "title": "Elektrik və Mexaniki 2",
+        "pageName": "Xidmətlər",
+        "description": "İnuitiv istifadəçi interfeysləri və təcrübələri dizayn edin.",
+        "image": "/src/assets/img3.png",
+        "needHelp": "Köməyə ehtiyacınız varmı?",
+        "helpParagraph": "Növbəti işiniz üçün Vaşinqtonda usta tapın",
+        "btnEnquiry": "Sorğu göndərin",
+        "button": "İndi sifariş et",
+        "bgImage": "/src/assets/service-detail-head-back.png",
+        "electricalTitle": "Elektrik",
+        "mechanicalTitle": "mexaniki",
+        "details": {
+          "electrical": [
+            "Məişət quraşdırmaları və texniki xidmət",
+            "Kommersiya quraşdırmaları və texniki xidmət",
+            "Sənaye quraşdırmaları və texniki xidmət",
+            "Fərdi işıqlandırma dizaynları",
+            "Sabit naqillərin yoxlanılması və sınağı",
+            "Nasazlıqların tapılması və diaqnostika",
+            "LED enerji qənaəti sxemləri",
+            "Sabit naqillərin yoxlanılması və sınağı",
+            "Nasazlıqların tapılması və diaqnostika",
+            "Portativ cihaz testi",
+            "PAT testi və digər təhlükəsizlik yoxlamaları"
+          ]
+        }
+      },
+      {
+        "id": "3",
+        "title": "Elektrik və Mexaniki 3",
+        "pageName": "Xidmətlər",
+        "description": "İnuitiv istifadəçi interfeysləri və təcrübələri dizayn edin.",
+        "image": "/src/assets/service-detail-img.png",
+        "needHelp": "Köməyə ehtiyacınız varmı?",
+        "helpParagraph": "Növbəti işiniz üçün Vaşinqtonda usta tapın",
+        "btnEnquiry": "Sorğu göndərin",
+        "button": "İndi sifariş et",
+        "bgImage": "/src/assets/service-detail-head-back.png",
+        "electricalTitle": "Elektrik",
+        "mechanicalTitle": "mexaniki",
+        "details": {
+          "mechanical": [
+            "Yüksək sürətli dodaq çıxarış sistemləri",
+            "Tam qaz təhlükəsizliyi kilidləmə sistemləri və çıxarış sistemləri",
+            "Dizayn, quraşdırma və daxili emalatxana ilə təmir"
+          ]
+        }
+      },
+      {
+        "id": "4",
+        "title": "Elektrik və Mexaniki 4",
+        "pageName": "Xidmətlər",
+        "description": "İnuitiv istifadəçi interfeysləri və təcrübələri dizayn edin.",
+        "image": "/src/assets/img5.png",
+        "needHelp": "Köməyə ehtiyacınız varmı?",
+        "helpParagraph": "Növbəti işiniz üçün Vaşinqtonda usta tapın",
+        "btnEnquiry": "Sorğu göndərin",
+        "button": "İndi sifariş et",
+        "bgImage": "/src/assets/service-detail-head-back.png",
+        "electricalTitle": "Elektrik",
+        "mechanicalTitle": "mexaniki",
+        "details": {
+          "electrical": [
+            "Məişət quraşdırmaları və texniki xidmət",
+            "Kommersiya quraşdırmaları və texniki xidmət",
+            "Sənaye quraşdırmaları və texniki xidmət",
+            "Portativ cihaz testi",
+            "PAT testi və digər təhlükəsizlik yoxlamaları"
+          ],
+          "mechanical": [
+            "Yüksək sürətli dodaq çıxarış sistemləri",
+            "Tam qaz təhlükəsizliyi kilidləmə sistemləri və çıxarış sistemləri"
+          ]
+        }
+      },
+      {
+        "id": "5",
+        "title": "Elektrik və Mexaniki 5",
+        "pageName": "Xidmətlər",
+        "description": "İnuitiv istifadəçi interfeysləri və təcrübələri dizayn edin.",
+        "image": "/src/assets/90cbb105777de2f4dab98747dd3aa1a7.jfif",
+        "needHelp": "Köməyə ehtiyacınız varmı?",
+        "helpParagraph": "Növbəti işiniz üçün Vaşinqtonda usta tapın",
+        "btnEnquiry": "Sorğu göndərin",
+        "button": "İndi sifariş et",
+        "bgImage": "/src/assets/service-detail-head-back.png",
+        "electricalTitle": "Elektrik",
+        "mechanicalTitle": "mexaniki",
+        "details": {
+          "electrical": [
+            "Məişət quraşdırmaları və texniki xidmət",
+            "Kommersiya quraşdırmaları və texniki xidmət",
+            "Sənaye quraşdırmaları və texniki xidmət",
+            "Sabit naqillərin yoxlanılması və sınağı",
+            "Nasazlıqların tapılması və diaqnostika",
+            "Portativ cihaz testi",
+            "PAT testi və digər təhlükəsizlik yoxlamaları"
+          ]
+        }
+      },
+      {
+        "id": "6",
+        "title": "Elektrik və Mexaniki 6",
+        "pageName": "Xidmətlər",
+        "description": "İnuitiv istifadəçi interfeysləri və təcrübələri dizayn edin.",
+        "image": "/src/assets/projects-detail-img.png",
+        "needHelp": "Köməyə ehtiyacınız varmı?",
+        "helpParagraph": "Növbəti işiniz üçün Vaşinqtonda usta tapın",
+        "btnEnquiry": "Sorğu göndərin",
+        "button": "İndi sifariş et",
+        "bgImage": "/src/assets/service-detail-head-back.png",
+        "electricalTitle": "Elektrik",
+        "mechanicalTitle": "mexaniki",
+        "details": {
+          "mechanical": [
+            "Yüksək sürətli dodaq çıxarış sistemləri",
+            "Tam qaz təhlükəsizliyi kilidləmə sistemləri və çıxarış sistemləri",
+            "Dizayn, quraşdırma və daxili emalatxana ilə təmir"
+          ]
+        }
+      },
+      {
+        "id": "7",
+        "title": "Elektrik və Mexaniki 7",
+        "pageName": "Xidmətlər",
+        "description": "İnuitiv istifadəçi interfeysləri və təcrübələri dizayn edin.",
+        "image": "/src/assets/service-detail-img.png",
+        "needHelp": "Köməyə ehtiyacınız varmı?",
+        "helpParagraph": "Növbəti işiniz üçün Vaşinqtonda usta tapın",
+        "btnEnquiry": "Sorğu göndərin",
+        "button": "İndi sifariş et",
+        "bgImage": "/src/assets/service-detail-head-back.png",
+        "electricalTitle": "Elektrik",
+        "mechanicalTitle": "mexaniki",
+        "details": {
+          "electrical": [
+            "Məişət quraşdırmaları və texniki xidmət",
+            "Kommersiya quraşdırmaları və texniki xidmət",
+            "Nasazlıqların tapılması və diaqnostika",
+            "Portativ cihaz testi",
+            "PAT testi və digər təhlükəsizlik yoxlamaları"
+          ]
+        }
+      },
+      {
+        "id": "8",
+        "title": "Elektrik və Mexaniki 8",
+        "pageName": "Xidmətlər",
+        "description": "İnuitiv istifadəçi interfeysləri və təcrübələri dizayn edin.",
+        "image": "/src/assets/projects-detail-img.png",
+        "needHelp": "Köməyə ehtiyacınız varmı?",
+        "helpParagraph": "Növbəti işiniz üçün Vaşinqtonda usta tapın",
+        "btnEnquiry": "Sorğu göndərin",
+        "button": "İndi sifariş et",
+        "bgImage": "/src/assets/service-detail-head-back.png",
+        "electricalTitle": "Elektrik",
+        "mechanicalTitle": "mexaniki",
+        "details": {
+          "electrical": [
+            "Məişət quraşdırmaları və texniki xidmət",
+            "Kommersiya quraşdırmaları və texniki xidmət",
+            "Sənaye quraşdırmaları və texniki xidmət",
+            "Xüsusi işıqlandırma dizaynları",
+            "PAT testi və digər təhlükəsizlik yoxlamaları"
+          ],
+          "mechanical": [
+            "Yüksək sürətli dodaq çıxarış sistemləri",
+            "Dizayn, quraşdırma və daxili emalatxana ilə təmir"
+          ]
+        }
+      },
+      {
+        "id": "9",
+        "title": "Elektrik və Mexaniki 9",
+        "pageName": "Xidmətlər",
+        "description": "İnuitiv istifadəçi interfeysləri və təcrübələri dizayn edin.",
+        "image": "/src/assets/90cbb105777de2f4dab98747dd3aa1a7.jfif",
+        "needHelp": "Köməyə ehtiyacınız varmı?",
+        "helpParagraph": "Növbəti işiniz üçün Vaşinqtonda usta tapın",
+        "btnEnquiry": "Sorğu göndərin",
+        "button": "İndi sifariş et",
+        "bgImage": "/src/assets/service-detail-head-back.png",
+        "electricalTitle": "Elektrik",
+        "mechanicalTitle": "mexaniki",
+        "details": {
+          "electrical": [
+            "Məişət quraşdırmaları və texniki xidmət",
+            "Sabit naqillərin yoxlanılması və sınağı",
+            "Nasazlıqların tapılması və diaqnostika",
+            "Portativ cihaz testi",
+            "PAT testi və digər təhlükəsizlik yoxlamaları"
+          ],
+          "mechanical": [
+            "Yüksək sürətli dodaq çıxarış sistemləri",
+            "Tam qaz təhlükəsizliyi kilidləmə sistemləri və çıxarış sistemləri",
+            "Dizayn, quraşdırma və daxili emalatxana ilə təmir"
+          ]
+        }
+      },
+      {
+        "id": "10",
+        "title": "Elektrik və Mexaniki 10",
+        "pageName": "Xidmətlər",
+        "description": "İnuitiv istifadəçi interfeysləri və təcrübələri dizayn edin.",
+        "image": "/src/assets/pro-serv-img.png",
+        "needHelp": "Köməyə ehtiyacınız varmı?",
+        "helpParagraph": "Növbəti işiniz üçün Vaşinqtonda usta tapın",
+        "btnEnquiry": "Sorğu göndərin",
+        "button": "İndi sifariş et",
+        "bgImage": "/src/assets/service-detail-head-back.png",
+        "details": {
+          "electrical": [
+            "Məişət quraşdırmaları və texniki xidmət",
+            "Kommersiya quraşdırmaları və texniki xidmət",
+            "Sabit naqillərin yoxlanılması və sınağı",
+            "Nasazlıqların tapılması və diaqnostika",
+            "Portativ cihaz testi",
+            "PAT testi və digər təhlükəsizlik yoxlamaları"
+          ],
+          "mechanical": [
+            "Yüksək sürətli dodaq çıxarış sistemləri",
+            "Tam qaz təhlükəsizliyi kilidləmə sistemləri və çıxarış sistemləri"
+          ]
+        }
+      },
+      {
+        "id": "11",
+        "title": "Elektrik və Mexaniki 11",
+        "pageName": "Xidmətlər",
+        "description": "React, Node.js və daha çoxunu istifadə edərək müasir veb tətbiqləri qurun.",
+        "image": "/src/assets/contact_head_back_img.jfif",
+        "needHelp": "Köməyə ehtiyacınız varmı?",
+        "helpParagraph": "Növbəti işiniz üçün Vaşinqtonda usta tapın",
+        "btnEnquiry": "Sorğu göndərin",
+        "button": "İndi sifariş et",
+        "bgImage": "/src/assets/service-detail-head-back.png",
+        "electricalTitle": "Elektrik",
+        "mechanicalTitle": "mexaniki",
+        "details": {
+          "electrical": [
+            "Məişət quraşdırmaları və texniki xidmət",
+            "Kommersiya quraşdırmaları və texniki xidmət",
+            "Sənaye quraşdırmaları və texniki xidmət",
+            "Fərdi işıqlandırma dizaynları",
+            "LED enerji qənaəti sxemləri",
+            "Sabit naqillərin yoxlanılması və sınağı",
+            "Nasazlıqların tapılması və diaqnostika",
+            "Portativ cihaz testi",
+            "PAT testi və digər təhlükəsizlik yoxlamaları"
+          ],
+          "mechanical": [
+            "Yüksək sürətli dodaq çıxarış sistemləri",
+            "Tam qaz təhlükəsizliyi kilidləmə sistemləri və çıxarış sistemləri",
+            "Dizayn, quraşdırma və daxili emalatxana ilə təmir"
+          ]
+        }
+      },
+      {
+        "id": "12",
+        "title": "Elektrik və Mexaniki 12",
+        "pageName": "Xidmətlər",
+        "description": "İnuitiv istifadəçi interfeysləri və təcrübələri dizayn edin.",
+        "image": "/src/assets/img3.png",
+        "needHelp": "Köməyə ehtiyacınız varmı?",
+        "helpParagraph": "Növbəti işiniz üçün Vaşinqtonda usta tapın",
+        "btnEnquiry": "Sorğu göndərin",
+        "button": "İndi sifariş et",
+        "bgImage": "/src/assets/service-detail-head-back.png",
+        "electricalTitle": "Elektrik",
+        "mechanicalTitle": "mexaniki",
+        "details": {
+          "electrical": [
+            "Məişət quraşdırmaları və texniki xidmət",
+            "Kommersiya quraşdırmaları və texniki xidmət",
+            "Sənaye quraşdırmaları və texniki xidmət",
+            "Fərdi işıqlandırma dizaynları",
+            "Sabit naqillərin yoxlanılması və sınağı",
+            "Nasazlıqların tapılması və diaqnostika",
+            "LED enerji qənaəti sxemləri",
+            "Sabit naqillərin yoxlanılması və sınağı",
+            "Nasazlıqların tapılması və diaqnostika",
+            "Portativ cihaz testi",
+            "PAT testi və digər təhlükəsizlik yoxlamaları"
+          ]
+        }
+      }
+    ]
+  },
+
+  "projects": {
+    "Eng": [
+      {
+        "id": "1",
+        "title": "Electrical and Mechanical 1",
+        "pageName": "Projects",
+        "button": "Book now",
+        "description": "We were contracted to advise and improve the lighting in the main hall. The lighting that they were using was 500W halogen flood lights which meant they had very high energy bills and unnecessary maintenance issues.  Our lighting design team used an LED high power flood light with an energy saving of 450w per fitting, so not only a massive saving but a manufacturer's warranty of 5 years. The church are very happy as the savings they have made have allowed them to invest in other areas.",
+        "image": "/src/assets/contact_head_back_img.jfif",
+        "date": "September 15, 2021",
+        "client": "Industrial Company",
+        "location": "New York, USA",
+        "category": "Home Protection",
+        "btnPrev": "Previous",
+        "btnNext": "Next",
+        "dateName": "Date",
+        "clientName": "Client",
+        "locationName": "Location",
+        "categoryName": "Category"
+      },
+      {
+        "id": "2",
+        "title": "Electrical and Mechanical 2",
+        "pageName": "Projects",
+        "button": "Book now",
+        "description": "We were contracted to advise and improve the lighting in the main hall. Our lighting design team used an LED high power flood light with an energy saving of 450w per fitting, so not only a massive saving but a manufacturer's warranty of 5 years. The church are very happy as the savings they have made have allowed them to invest in other areas.",
+        "image": "/src/assets/90cbb105777de2f4dab98747dd3aa1a7.jfif",
+        "date": "September 30, 2019",
+        "client": "Mechanical Company",
+        "location": "Toronto, CA",
+        "category": "Home Protection",
+        "btnPrev": "Previous",
+        "btnNext": "Next",
+        "dateName": "Date",
+        "clientName": "Client",
+        "locationName": "Location",
+        "categoryName": "Category"
+      },
+      {
+        "id": "3",
+        "title": "Electrical and Mechanical 3",
+        "pageName": "Projects",
+        "button": "Book now",
+        "description": "Our lighting design team used an LED high power flood light with an energy saving of 450w per fitting, so not only a massive saving but a manufacturer's warranty of 5 years. The church are very happy as the savings they have made have allowed them to invest in other areas.",
+        "image": "/src/assets/pro-serv-img.png",
+        "date": "October 15, 2023",
+        "client": "Industrial Company",
+        "location": "Chicago, USA",
+        "category": "Home Protection",
+        "btnPrev": "Previous",
+        "btnNext": "Next",
+        "dateName": "Date",
+        "clientName": "Client",
+        "locationName": "Location",
+        "categoryName": "Category"
+      },
+      {
+        "id": "4",
+        "title": "Electrical and Mechanical 4",
+        "pageName": "Projects",
+        "button": "Book now",
+        "description": "We were contracted to advise and improve the lighting in the main hall. The lighting that they were using was 500W halogen flood lights which meant they had very high energy bills and unnecessary maintenance issues.  Our lighting design team used an LED high power flood light with an energy saving of 450w per fitting, so not only a massive saving but a manufacturer's warranty of 5 years. The church are very happy as the savings they have made have allowed them to invest in other areas.",
+        "image": "/src/assets/projects-detail-img.png",
+        "date": "March 20, 2020",
+        "client": "IT Company",
+        "location": "Berlin, Germany",
+        "category": "Home Protection",
+        "btnPrev": "Previous",
+        "btnNext": "Next",
+        "dateName": "Date",
+        "clientName": "Client",
+        "locationName": "Location",
+        "categoryName": "Category"
+      },
+      {
+        "id": "5",
+        "title": "Electrical and Mechanical 5",
+        "pageName": "Projects",
+        "button": "Book now",
+        "description": "Our lighting design team used an LED high power flood light with an energy saving of 450w per fitting, so not only a massive saving but a manufacturer's warranty of 5 years.",
+        "image": "/src/assets/img8.png",
+        "date": "November 18, 2022",
+        "client": "Industrial Company",
+        "location": "New York, USA",
+        "category": "Home Protection",
+        "btnPrev": "Previous",
+        "btnNext": "Next",
+        "dateName": "Date",
+        "clientName": "Client",
+        "locationName": "Location",
+        "categoryName": "Category"
+      },
+      {
+        "id": "6",
+        "title": "Electrical and Mechanical 6",
+        "pageName": "Projects",
+        "button": "Book now",
+        "description": "The lighting that they were using was 500W halogen flood lights which meant they had very high energy bills and unnecessary maintenance issues.  Our lighting design team used an LED high power flood light with an energy saving of 450w per fitting, so not only a massive saving but a manufacturer's warranty of 5 years. The church are very happy as the savings they have made have allowed them to invest in other areas.",
+        "image": "/src/assets/service-detail-img.png",
+        "date": "September 15, 2021",
+        "client": "Industrial Company",
+        "location": "New York, USA",
+        "category": "Home Protection"
+      },
+      {
+        "id": "7",
+        "title": "Electrical and Mechanical 7",
+        "pageName": "Projects",
+        "button": "Book now",
+        "description": "We were contracted to advise and improve the lighting in the main hall. The lighting that they were using was 500W halogen flood lights which meant they had very high energy bills and unnecessary maintenance issues. The church are very happy as the savings they have made have allowed them to invest in other areas.",
+        "image": "/src/assets/contact_head_back_img.jfif",
+        "date": "July 24, 2024",
+        "client": "Farmer Company",
+        "location": "Milan, taly",
+        "category": "Home Protection",
+        "btnPrev": "Previous",
+        "btnNext": "Next",
+        "dateName": "Date",
+        "clientName": "Client",
+        "locationName": "Location",
+        "categoryName": "Category"
+      }
+    ],
+    "Rus": [
+      {
+        "id": "1",
+        "title": "Электрика и Механика 1",
+        "pageName": "Проекты",
+        "button": "Забронировать сейчас",
+        "description": "Мы были наняты для консультации и улучшения освещения в главном зале. Освещение, которое они использовали, состояло из 500-ваттных галогенных прожекторов, что означало очень высокие счета за электроэнергию и ненужные проблемы с обслуживанием. Наша команда по проектированию освещения использовала светодиодные высокомощные прожекторы с экономией энергии в 450 Вт на каждое светильник, что не только дает огромную экономию, но и пятилетнюю гарантию от производителя. Церковь очень довольна, так как сэкономленные средства позволили им инвестировать в другие области.",
+        "image": "/src/assets/contact_head_back_img.jfif",
+        "date": "15 сентября 2021",
+        "client": "Промышленная компания",
+        "location": "Нью-Йорк, США",
+        "category": "Защита дома",
+        "btnPrev": "Предыдущий",
+        "btnNext": "Далее",
+        "dateName": "Дата",
+        "clientName": "Клиент",
+        "locationName": "Местоположение",
+        "categoryName": "Категория"
+      },
+      {
+        "id": "2",
+        "title": "Электрика и Механика 2",
+        "pageName": "Проекты",
+        "button": "Забронировать сейчас",
+        "description": "Мы были наняты для консультации и улучшения освещения в главном зале. Наша команда по проектированию освещения использовала светодиодные высокомощные прожекторы с экономией энергии в 450 Вт на каждое светильник, что не только дает огромную экономию, но и пятилетнюю гарантию от производителя. Церковь очень довольна, так как сэкономленные средства позволили им инвестировать в другие области.",
+        "image": "/src/assets/90cbb105777de2f4dab98747dd3aa1a7.jfif",
+        "date": "30 сентября 2019",
+        "client": "Механическая компания",
+        "location": "Торонто, Канада",
+        "category": "Защита дома",
+        "btnPrev": "Предыдущий",
+        "btnNext": "Далее",
+        "dateName": "Дата",
+        "clientName": "Клиент",
+        "locationName": "Местоположение",
+        "categoryName": "Категория"
+      },
+      {
+        "id": "3",
+        "title": "Электрика и Механика 3",
+        "pageName": "Проекты",
+        "button": "Забронировать сейчас",
+        "description": "Наша команда по проектированию освещения использовала светодиодные высокомощные прожекторы с экономией энергии в 450 Вт на каждое светильник, что не только дает огромную экономию, но и пятилетнюю гарантию от производителя. Церковь очень довольна, так как сэкономленные средства позволили им инвестировать в другие области.",
+        "image": "/src/assets/pro-serv-img.png",
+        "date": "15 октября 2023",
+        "client": "Промышленная компания",
+        "location": "Чикаго, США",
+        "category": "Защита дома",
+        "btnPrev": "Предыдущий",
+        "btnNext": "Далее",
+        "dateName": "Дата",
+        "clientName": "Клиент",
+        "locationName": "Местоположение",
+        "categoryName": "Категория"
+      },
+      {
+        "id": "4",
+        "title": "Электрика и Механика 4",
+        "pageName": "Проекты",
+        "button": "Забронировать сейчас",
+        "description": "Мы были наняты для консультации и улучшения освещения в главном зале. Освещение, которое они использовали, состояло из 500-ваттных галогенных прожекторов, что означало очень высокие счета за электроэнергию и ненужные проблемы с обслуживанием. Наша команда по проектированию освещения использовала светодиодные высокомощные прожекторы с экономией энергии в 450 Вт на каждое светильник, что не только дает огромную экономию, но и пятилетнюю гарантию от производителя. Церковь очень довольна, так как сэкономленные средства позволили им инвестировать в другие области.",
+        "image": "/src/assets/projects-detail-img.png",
+        "date": "20 марта 2020",
+        "client": "ИТ компания",
+        "location": "Берлин, Германия",
+        "category": "Защита дома",
+        "btnNext": "Далее",
+        "btnPrev": "Предыдущий",
+        "dateName": "Дата",
+        "clientName": "Клиент",
+        "locationName": "Местоположение",
+        "categoryName": "Категория"
+      },
+      {
+        "id": "5",
+        "title": "Электрика и Механика 5",
+        "pageName": "Проекты",
+        "button": "Забронировать сейчас",
+        "description": "Наша команда по проектированию освещения использовала светодиодные высокомощные прожекторы с экономией энергии в 450 Вт на каждое светильник, что не только дает огромную экономию, но и пятилетнюю гарантию от производителя.",
+        "image": "/src/assets/img8.png",
+        "date": "18 ноября 2022",
+        "client": "Промышленная компания",
+        "location": "Нью-Йорк, США",
+        "category": "Защита дома",
+        "btnNext": "Далее",
+        "btnPrev": "Предыдущий",
+        "dateName": "Дата",
+        "clientName": "Клиент",
+        "locationName": "Местоположение",
+        "categoryName": "Категория"
+      },
+      {
+        "id": "6",
+        "title": "Электрика и Механика 6",
+        "pageName": "Проекты",
+        "button": "Забронировать сейчас",
+        "description": "Освещение, которое они использовали, состояло из 500-ваттных галогенных прожекторов, что означало очень высокие счета за электроэнергию и ненужные проблемы с обслуживанием. Наша команда по проектированию освещения использовала светодиодные высокомощные прожекторы с экономией энергии в 450 Вт на каждое светильник, что не только дает огромную экономию, но и пятилетнюю гарантию от производителя. Церковь очень довольна, так как сэкономленные средства позволили им инвестировать в другие области.",
+        "image": "/src/assets/service-detail-img.png",
+        "date": "15 сентября 2021",
+        "client": "Промышленная компания",
+        "location": "Нью-Йорк, США",
+        "category": "Защита дома",
+        "btnNext": "Далее",
+        "btnPrev": "Предыдущий",
+        "dateName": "Дата",
+        "clientName": "Клиент",
+        "locationName": "Местоположение",
+        "categoryName": "Категория"
+      },
+      {
+        "id": "7",
+        "title": "Электрика и Механика 7",
+        "pageName": "Проекты",
+        "button": "Забронировать сейчас",
+        "description": "Мы были наняты для консультации и улучшения освещения в главном зале. Освещение, которое они использовали, состояло из 500-ваттных галогенных прожекторов, что означало очень высокие счета за электроэнергию и ненужные проблемы с обслуживанием. Церковь очень довольна, так как сэкономленные средства позволили им инвестировать в другие области.",
+        "image": "/src/assets/contact_head_back_img.jfif",
+        "date": "24 июля 2024",
+        "client": "Фермерская компания",
+        "location": "Милан, Италия",
+        "category": "Защита дома",
+        "btnNext": "Далее",
+        "btnPrev": "Предыдущий",
+        "dateName": "Дата",
+        "clientName": "Клиент",
+        "locationName": "Местоположение",
+        "categoryName": "Категория"
+      }
+    ],
+    "Az": [
+      {
+        "id": "1",
+        "title": "Elektrik və Mexanika 1",
+        "pageName": "Layihələr",
+        "button": "İndi sifariş et",
+        "description": "Biz əsas zaldakı işıqlanmanı yaxşılaşdırmaq və məsləhət vermək üçün sifariş aldıq. Onlar 500W halogen proyektor işıqları istifadə edirdilər ki, bu da yüksək enerji xərcləri və lazımsız baxım problemlərinə səbəb olurdu. İşıqlandırma dizayn komandamız 450w enerji qənaət edən LED yüksək güclü proyektor istifadə etdi, bu da yalnız böyük bir qənaət demək deyil, həm də 5 illik istehsalçı zəmanətidir. Kilsə çox məmnundur, çünki etdikləri qənaət onlara digər sahələrə investisiya qoymağa imkan tanıyıb.",
+        "image": "/src/assets/contact_head_back_img.jfif",
+        "date": "15 Sentyabr 2021",
+        "client": "Sənaye Şirkəti",
+        "location": "Nyu-York, ABŞ",
+        "category": "Evin Mühafizəsi",
+        "btnPrev": "Əvvəlki",
+        "btnNext": "Növbəti",
+        "dateName": "Tarix",
+        "clientName": "Müştəri",
+        "locationName": "Məkan",
+        "categoryName": "Kateqoriya"
+      },
+      {
+        "id": "2",
+        "title": "Elektrik və Mexanika 2",
+        "pageName": "Layihələr",
+        "button": "İndi sifariş et",
+        "description": "Biz əsas zaldakı işıqlanmanı yaxşılaşdırmaq və məsləhət vermək üçün sifariş aldıq. İşıqlandırma dizayn komandamız 450w enerji qənaət edən LED yüksək güclü proyektor istifadə etdi, bu da yalnız böyük bir qənaət demək deyil, həm də 5 illik istehsalçı zəmanətidir. Kilsə çox məmnundur, çünki etdikləri qənaət onlara digər sahələrə investisiya qoymağa imkan tanıyıb.",
+        "image": "/src/assets/90cbb105777de2f4dab98747dd3aa1a7.jfif",
+        "date": "30 Sentyabr 2019",
+        "client": "Mexanika Şirkəti",
+        "location": "Toronto, Kanada",
+        "category": "Evin Mühafizəsi",
+        "btnPrev": "Əvvəlki",
+        "btnNext": "Növbəti",
+        "dateName": "Tarix",
+        "clientName": "Müştəri",
+        "locationName": "Məkan",
+        "categoryName": "Kateqoriya"
+      },
+      {
+        "id": "3",
+        "title": "Elektrik və Mexanika 3",
+        "pageName": "Layihələr",
+        "button": "İndi sifariş et",
+        "description": "İşıqlandırma dizayn komandamız 450w enerji qənaət edən LED yüksək güclü proyektor istifadə etdi, bu da yalnız böyük bir qənaət demək deyil, həm də 5 illik istehsalçı zəmanətidir. Kilsə çox məmnundur, çünki etdikləri qənaət onlara digər sahələrə investisiya qoymağa imkan tanıyıb.",
+        "image": "/src/assets/pro-serv-img.png",
+        "date": "15 Oktyabr 2023",
+        "client": "Sənaye Şirkəti",
+        "location": "Çikaqo, ABŞ",
+        "category": "Evin Mühafizəsi",
+        "btnPrev": "Əvvəlki",
+        "btnNext": "Növbəti",
+        "dateName": "Tarix",
+        "clientName": "Müştəri",
+        "locationName": "Məkan",
+        "categoryName": "Kateqoriya"
+      },
+      {
+        "id": "4",
+        "title": "Elektrik və Mexanika 4",
+        "pageName": "Layihələr",
+        "button": "İndi sifariş et",
+        "description": "Biz əsas zaldakı işıqlanmanı yaxşılaşdırmaq və məsləhət vermək üçün sifariş aldıq. Onlar 500W halogen proyektor işıqları istifadə edirdilər ki, bu da yüksək enerji xərcləri və lazımsız baxım problemlərinə səbəb olurdu. İşıqlandırma dizayn komandamız 450w enerji qənaət edən LED yüksək güclü proyektor istifadə etdi, bu da yalnız böyük bir qənaət demək deyil, həm də 5 illik istehsalçı zəmanətidir. Kilsə çox məmnundur, çünki etdikləri qənaət onlara digər sahələrə investisiya qoymağa imkan tanıyıb.",
+        "image": "/src/assets/projects-detail-img.png",
+        "date": "20 Mart 2020",
+        "client": "İT Şirkəti",
+        "location": "Berlin, Almaniya",
+        "category": "Evin Mühafizəsi",
+        "btnPrev": "Əvvəlki",
+        "btnNext": "Növbəti",
+        "dateName": "Tarix",
+        "clientName": "Müştəri",
+        "locationName": "Məkan",
+        "categoryName": "Kateqoriya"
+      },
+      {
+        "id": "5",
+        "title": "Elektrik və Mexanika 5",
+        "pageName": "Layihələr",
+        "button": "İndi sifariş et",
+        "description": "İşıqlandırma dizayn komandamız 450w enerji qənaət edən LED yüksək güclü proyektor istifadə etdi, bu da yalnız böyük bir qənaət demək deyil, həm də 5 illik istehsalçı zəmanətidir.",
+        "image": "/src/assets/img8.png",
+        "date": "18 Noyabr 2022",
+        "client": "Sənaye Şirkəti",
+        "location": "Nyu-York, ABŞ",
+        "category": "Evin Mühafizəsi",
+        "btnPrev": "Əvvəlki",
+        "btnNext": "Növbəti",
+        "dateName": "Tarix",
+        "clientName": "Müştəri",
+        "locationName": "Məkan",
+        "categoryName": "Kateqoriya"
+      },
+      {
+        "id": "6",
+        "title": "Elektrik və Mexanika 6",
+        "pageName": "Layihələr",
+        "button": "İndi sifariş et",
+        "description": "Onlar 500W halogen proyektor işıqları istifadə edirdilər ki, bu da yüksək enerji xərcləri və lazımsız baxım problemlərinə səbəb olurdu. İşıqlandırma dizayn komandamız 450w enerji qənaət edən LED yüksək güclü proyektor istifadə etdi, bu da yalnız böyük bir qənaət demək deyil, həm də 5 illik istehsalçı zəmanətidir. Kilsə çox məmnundur, çünki etdikləri qənaət onlara digər sahələrə investisiya qoymağa imkan tanıyıb.",
+        "image": "/src/assets/service-detail-img.png",
+        "date": "15 Sentyabr 2021",
+        "client": "Sənaye Şirkəti",
+        "location": "Nyu-York, ABŞ",
+        "category": "Evin Mühafizəsi",
+        "btnPrev": "Əvvəlki",
+        "btnNext": "Növbəti",
+        "dateName": "Tarix",
+        "clientName": "Müştəri",
+        "locationName": "Məkan",
+        "categoryName": "Kateqoriya"
+      },
+      {
+        "id": "7",
+        "title": "Elektrik və Mexanika 7",
+        "pageName": "Layihələr",
+        "button": "İndi sifariş et",
+        "description": "Biz əsas zaldakı işıqlanmanı yaxşılaşdırmaq və məsləhət vermək üçün sifariş aldıq. Onlar 500W halogen proyektor işıqları istifadə edirdilər ki, bu da yüksək enerji xərcləri və lazımsız baxım problemlərinə səbəb olurdu. Kilsə çox məmnundur, çünki etdikləri qənaət onlara digər sahələrə investisiya qoymağa imkan tanıyıb.",
+        "image": "/src/assets/contact_head_back_img.jfif",
+        "date": "24 İyul 2024",
+        "client": "Kənd Təsərrüfatı Şirkəti",
+        "location": "Milan, İtaliya",
+        "category": "Evin Mühafizəsi",
+        "btnPrev": "Əvvəlki",
+        "btnNext": "Növbəti",
+        "dateName": "Tarix",
+        "clientName": "Müştəri",
+        "locationName": "Məkan",
+        "categoryName": "Kateqoriya"
+      }
+    ]
+  },
+
+  "blogs": {
+    "Eng": [
+      {
+        "id": "1",
+        "pageName": "Blogs",
+        "button": "Book now",
+        "title": "Blog Title 1",
+        "description": "We were contracted to advise and improve the lighting in the main hall. The lighting that they were using was 500W halogen flood lights which meant they had very high energy bills and unnecessary maintenance issues.  Our lighting design team used an LED high power flood light with an energy saving of 450w per fitting, so not only a massive saving but a manufacturer's warranty of 5 years. The church are very happy as the savings they have made have allowed them to invest in other areas.",
+        "needHelp": "Need Help?",
+        "helpParagraph": "Find a Handyman In DC For Your Next Task",
+        "btnEnquiry": "Make An Enquiry",
+        "image": "/src/assets/contact_head_back_img.jfif",
+        "electricalTitle": "Electrical",
+        "mechanicalTitle": "mechanical",
+        "details": {
+          "electrical": [
+            "Domestic installations and maintenance",
+            "Commercial installations and maintenance",
+            "Industrial installations and maintenance",
+            "Bespoke lighting designs",
+            "LED energy saving schemes",
+            "Fixed wiring inspection and testing",
+            "Fault finding and diagnostic",
+            "Portable appliance testing",
+            "PAT testing and other safety testing and inspection"
+          ],
+          "mechanical": [
+            "High velocity lip extraction systems",
+            "Full Gas safety interlock supply and extract systems",
+            "Design, install, and maintain works with in-house workshop facilities"
+          ]
+        }
+      },
+      {
+        "id": "2",
+        "pageName": "Blogs",
+        "button": "Book now",
+        "title": "Blog Title 2",
+        "description": "We were contracted to advise and improve the lighting in the main hall. The lighting that they were using was 500W halogen flood lights which meant they had very high energy bills and unnecessary maintenance issues.  Our lighting design team used an LED high power flood light with an energy saving of 450w per fitting, so not only a massive saving but a manufacturer's warranty of 5 years. The church are very happy as the savings they have made have allowed them to invest in other areas.",
+        "needHelp": "Need Help?",
+        "helpParagraph": "Find a Handyman In DC For Your Next Task",
+        "btnEnquiry": "Make An Enquiry",
+        "image": "/src/assets/img4.png",
+        "electricalTitle": "Electrical",
+        "mechanicalTitle": "mechanical",
+        "details": {
+          "electrical": [
+            "Domestic installations and maintenance",
+            "Commercial installations and maintenance",
+            "Industrial installations and maintenance",
+            "Bespoke lighting designs",
+            "LED energy saving schemes",
+            "Fixed wiring inspection and testing",
+            "Fault finding and diagnostic",
+            "Portable appliance testing",
+            "PAT testing and other safety testing and inspection"
+          ]
+        }
+      },
+      {
+        "id": "3",
+        "pageName": "Blogs",
+        "button": "Book now",
+        "title": "Blog Title 3",
+        "description": "We were contracted to advise and improve the lighting in the main hall. The lighting that they were using was 500W halogen flood lights which meant they had very high energy bills and unnecessary maintenance issues.  Our lighting design team used an LED high power flood light with an energy saving of 450w per fitting, so not only a massive saving but a manufacturer's warranty of 5 years. The church are very happy as the savings they have made have allowed them to invest in other areas.",
+        "needHelp": "Need Help?",
+        "helpParagraph": "Find a Handyman In DC For Your Next Task",
+        "btnEnquiry": "Make An Enquiry",
+        "image": "/src/assets/contact_head_back_img.jfif",
+        "electricalTitle": "Electrical",
+        "mechanicalTitle": "mechanical",
+        "details": {
+          "electrical": [
+            "Domestic installations and maintenance",
+            "Commercial installations and maintenance",
+            "Industrial installations and maintenance",
+            "Bespoke lighting designs",
+            "Portable appliance testing",
+            "PAT testing and other safety testing and inspection"
+          ],
+          "mechanical": [
+            "High velocity lip extraction systems",
+            "Full Gas safety interlock supply and extract systems",
+            "Design, install, and maintain works with in-house workshop facilities"
+          ]
+        }
+      },
+      {
+        "id": "4",
+        "pageName": "Blogs",
+        "button": "Book now",
+        "title": "Blog Title 4",
+        "description": "We were contracted to advise and improve the lighting in the main hall. The lighting that they were using was 500W halogen flood lights which meant they had very high energy bills and unnecessary maintenance issues.  Our lighting design team used an LED high power flood light with an energy saving of 450w per fitting, so not only a massive saving but a manufacturer's warranty of 5 years. The church are very happy as the savings they have made have allowed them to invest in other areas.",
+        "needHelp": "Need Help?",
+        "helpParagraph": "Find a Handyman In DC For Your Next Task",
+        "btnEnquiry": "Make An Enquiry",
+        "image": "/src/assets/projects-detail-img.png",
+        "electricalTitle": "Electrical",
+        "mechanicalTitle": "mechanical",
+        "details": {
+          "electrical": [
+            "Domestic installations and maintenance",
+            "Commercial installations and maintenance",
+            "Industrial installations and maintenance",
+            "Bespoke lighting designs",
+            "LED energy saving schemes",
+            "Fixed wiring inspection and testing",
+            "Fault finding and diagnostic",
+            "Portable appliance testing",
+            "Commercial installations and maintenance",
+            "Industrial installations and maintenance",
+            "Bespoke lighting designs",
+            "PAT testing and other safety testing and inspection"
+          ],
+          "mechanical": [
+            "High velocity lip extraction systems",
+            "Full Gas safety interlock supply and extract systems",
+            "Design, install, and maintain works with in-house workshop facilities"
+          ]
+        }
+      },
+      {
+        "id": "5",
+        "pageName": "Blogs",
+        "button": "Book now",
+        "title": "Blog Title 5",
+        "description": "We were contracted to advise and improve the lighting in the main hall. The lighting that they were using was 500W halogen flood lights which meant they had very high energy bills and unnecessary maintenance issues.  Our lighting design team used an LED high power flood light with an energy saving of 450w per fitting, so not only a massive saving but a manufacturer's warranty of 5 years. The church are very happy as the savings they have made have allowed them to invest in other areas.",
+        "needHelp": "Need Help?",
+        "helpParagraph": "Find a Handyman In DC For Your Next Task",
+        "btnEnquiry": "Make An Enquiry",
+        "image": "/src/assets/pro-serv-img.png",
+        "electricalTitle": "Electrical",
+        "mechanicalTitle": "mechanical",
+        "details": {
+          "electrical": [
+            "Domestic installations and maintenance",
+            "Commercial installations and maintenance",
+            "Industrial installations and maintenance",
+            "Fixed wiring inspection and testing",
+            "Fault finding and diagnostic",
+            "Portable appliance testing",
+            "PAT testing and other safety testing and inspection"
+          ],
+          "mechanical": [
+            "Full Gas safety interlock supply and extract systems",
+            "Design, install, and maintain works with in-house workshop facilities"
+          ]
+        }
+      },
+      {
+        "id": "6",
+        "pageName": "Blogs",
+        "button": "Book now",
+        "title": "Blog Title 6",
+        "description": "We were contracted to advise and improve the lighting in the main hall. The lighting that they were using was 500W halogen flood lights which meant they had very high energy bills and unnecessary maintenance issues.  Our lighting design team used an LED high power flood light with an energy saving of 450w per fitting, so not only a massive saving but a manufacturer's warranty of 5 years. The church are very happy as the savings they have made have allowed them to invest in other areas.",
+        "needHelp": "Need Help?",
+        "helpParagraph": "Find a Handyman In DC For Your Next Task",
+        "btnEnquiry": "Make An Enquiry",
+        "image": "/src/assets/contact_head_back_img.jfif",
+        "electricalTitle": "Electrical",
+        "mechanicalTitle": "mechanical",
+        "details": {
+          "mechanical": [
+            "High velocity lip extraction systems",
+            "Full Gas safety interlock supply and extract systems",
+            "LED energy saving schemes",
+            "Fixed wiring inspection and testing",
+            "Fault finding and diagnostic",
+            "Design, install, and maintain works with in-house workshop facilities"
+          ]
+        }
+      },
+      {
+        "id": "7",
+        "pageName": "Blogs",
+        "button": "Book now",
+        "title": "Blog Title 7",
+        "description": "We were contracted to advise and improve the lighting in the main hall. The lighting that they were using was 500W halogen flood lights which meant they had very high energy bills and unnecessary maintenance issues.  Our lighting design team used an LED high power flood light with an energy saving of 450w per fitting, so not only a massive saving but a manufacturer's warranty of 5 years. The church are very happy as the savings they have made have allowed them to invest in other areas.",
+        "needHelp": "Need Help?",
+        "helpParagraph": "Find a Handyman In DC For Your Next Task",
+        "btnEnquiry": "Make An Enquiry",
+        "image": "/src/assets/90cbb105777de2f4dab98747dd3aa1a7.jfif",
+        "electricalTitle": "Electrical",
+        "mechanicalTitle": "mechanical",
+        "details": {
+          "electrical": [
+            "Domestic installations and maintenance",
+            "Commercial installations and maintenance",
+            "Industrial installations and maintenance",
+            "Bespoke lighting designs",
+            "LED energy saving schemes",
+            "Fixed wiring inspection and testing",
+            "Fault finding and diagnostic",
+            "Portable appliance testing",
+            "PAT testing and other safety testing and inspection",
+            "High velocity lip extraction systems",
+            "Full Gas safety interlock supply and extract systems",
+            "Design, install, and maintain works with in-house workshop facilities"
+          ]
+        }
+      }
+    ],
+
+    "Rus": [
+      {
+        "id": "1",
+        "pageName": "Блоги",
+        "button": "Забронировать сейчас",
+        "title": "Название Блога 1",
+        "description": "Нас пригласили проконсультировать и улучшить освещение в главном зале. Освещение, которое они использовали, состояло из 500-ваттных галогенных прожекторов, что означало очень высокие счета за электроэнергию и ненужные проблемы с обслуживанием. Наша команда по световому дизайну использовала светодиодный прожектор с экономией энергии на 450 Вт на каждую установку, что привело к огромной экономии и пятилетней гарантии производителя. Церковь очень довольна, так как сэкономленные средства позволили инвестировать в другие области.",
+        "needHelp": "Нужна помощь?",
+        "helpParagraph": "Найти разнорабочего в Вашингтоне для следующей задачи",
+        "btnEnquiry": "Сделать запрос",
+        "image": "/src/assets/contact_head_back_img.jfif",
+        "electricalTitle": "Электрическое",
+        "mechanicalTitle": "механический",
+        "details": {
+          "electrical": [
+            "Бытовые установки и обслуживание",
+            "Коммерческие установки и обслуживание",
+            "Промышленные установки и обслуживание",
+            "Индивидуальные световые проекты",
+            "Энергосберегающие схемы LED",
+            "Испытание и проверка проводки",
+            "Поиск неисправностей и диагностика",
+            "Проверка портативного оборудования",
+            "PAT тестирование и другие проверки безопасности"
+          ],
+          "mechanical": [
+            "Системы вытяжки с высокой скоростью",
+            "Полные системы газовой безопасности",
+            "Проектирование, установка и обслуживание на месте"
+          ]
+        }
+      },
+      {
+        "id": "2",
+        "pageName": "Блоги",
+        "button": "Забронировать сейчас",
+        "title": "Название Блога 2",
+        "description": "Нас пригласили проконсультировать и улучшить освещение в главном зале. Освещение, которое они использовали, состояло из 500-ваттных галогенных прожекторов, что означало очень высокие счета за электроэнергию и ненужные проблемы с обслуживанием. Наша команда по световому дизайну использовала светодиодный прожектор с экономией энергии на 450 Вт на каждую установку, что привело к огромной экономии и пятилетней гарантии производителя. Церковь очень довольна, так как сэкономленные средства позволили инвестировать в другие области.",
+        "needHelp": "Нужна помощь?",
+        "helpParagraph": "Найти разнорабочего в Вашингтоне для следующей задачи",
+        "btnEnquiry": "Сделать запрос",
+        "image": "/src/assets/contact_head_back_img.jfif",
+        "electricalTitle": "Электрическое",
+        "mechanicalTitle": "механический",
+        "details": {
+          "electrical": [
+            "Бытовые установки и обслуживание",
+            "Коммерческие установки и обслуживание",
+            "Промышленные установки и обслуживание",
+            "Индивидуальные световые проекты",
+            "Энергосберегающие схемы LED",
+            "Испытание и проверка проводки",
+            "Поиск неисправностей и диагностика",
+            "Проверка портативного оборудования",
+            "PAT тестирование и другие проверки безопасности"
+          ],
+          "mechanical": [
+            "Системы вытяжки с высокой скоростью",
+            "Полные системы газовой безопасности",
+            "Проектирование, установка и обслуживание на месте"
+          ]
+        }
+      },
+      {
+        "id": "3",
+        "pageName": "Блоги",
+        "button": "Забронировать сейчас",
+
+        "title": "Название Блога 3",
+        "description": "Нас пригласили проконсультировать и улучшить освещение в главном зале. Освещение, которое они использовали, состояло из 500-ваттных галогенных прожекторов, что означало очень высокие счета за электроэнергию и ненужные проблемы с обслуживанием. Наша команда по световому дизайну использовала светодиодный прожектор с экономией энергии на 450 Вт на каждую установку, что привело к огромной экономии и пятилетней гарантии производителя. Церковь очень довольна, так как сэкономленные средства позволили инвестировать в другие области.",
+        "needHelp": "Нужна помощь?",
+        "helpParagraph": "Найти разнорабочего в Вашингтоне для следующей задачи",
+        "btnEnquiry": "Сделать запрос",
+        "image": "/src/assets/contact_head_back_img.jfif",
+        "electricalTitle": "Электрическое",
+        "mechanicalTitle": "механический",
+        "details": {
+          "electrical": [
+            "Бытовые установки и обслуживание",
+            "Коммерческие установки и обслуживание",
+            "Промышленные установки и обслуживание",
+            "Индивидуальные световые проекты",
+            "Проверка портативного оборудования",
+            "PAT тестирование и другие проверки безопасности"
+          ],
+          "mechanical": [
+            "Системы высокоскоростного удаления воздуха",
+            "Системы газовой безопасности с полной взаимной блокировкой",
+            "Проектирование, установка и обслуживание работ с использованием внутренних мастерских"
+          ]
+        }
+      },
+      {
+        "id": "4",
+        "pageName": "Блоги",
+        "button": "Забронировать сейчас",
+        "title": "Название Блога 4",
+        "description": "Нас пригласили проконсультировать и улучшить освещение в главном зале. Освещение, которое они использовали, состояло из 500-ваттных галогенных прожекторов, что означало очень высокие счета за электроэнергию и ненужные проблемы с обслуживанием. Наша команда по световому дизайну использовала светодиодный прожектор с экономией энергии на 450 Вт на каждую установку, что привело к огромной экономии и пятилетней гарантии производителя. Церковь очень довольна, так как сэкономленные средства позволили инвестировать в другие области.",
+        "needHelp": "Нужна помощь?",
+        "helpParagraph": "Найти разнорабочего в Вашингтоне для следующей задачи",
+        "btnEnquiry": "Сделать запрос",
+        "image": "/src/assets/projects-detail-img.png",
+        "electricalTitle": "Электрическое",
+        "mechanicalTitle": "механический",
+        "details": {
+          "electrical": [
+            "Бытовые установки и обслуживание",
+            "Коммерческие установки и обслуживание",
+            "Промышленные установки и обслуживание",
+            "Индивидуальные световые проекты",
+            "Энергосберегающие схемы LED",
+            "Испытание и проверка проводки",
+            "Поиск неисправностей и диагностика",
+            "Проверка портативного оборудования",
+            "Коммерческие установки и обслуживание",
+            "Промышленные установки и обслуживание",
+            "Индивидуальные световые проекты",
+            "PAT тестирование и другие проверки безопасности"
+          ],
+          "mechanical": [
+            "Системы высокоскоростного удаления воздуха",
+            "Системы газовой безопасности с полной взаимной блокировкой",
+            "Проектирование, установка и обслуживание работ с использованием внутренних мастерских"
+          ]
+        }
+      },
+      {
+        "id": "5",
+        "pageName": "Блоги",
+        "button": "Забронировать сейчас",
+        "title": "Название Блога 5",
+        "description": "Нас пригласили проконсультировать и улучшить освещение в главном зале. Освещение, которое они использовали, состояло из 500-ваттных галогенных прожекторов, что означало очень высокие счета за электроэнергию и ненужные проблемы с обслуживанием. Наша команда по световому дизайну использовала светодиодный прожектор с экономией энергии на 450 Вт на каждую установку, что привело к огромной экономии и пятилетней гарантии производителя. Церковь очень довольна, так как сэкономленные средства позволили инвестировать в другие области.",
+        "needHelp": "Нужна помощь?",
+        "helpParagraph": "Найти разнорабочего в Вашингтоне для следующей задачи",
+        "btnEnquiry": "Сделать запрос",
+        "image": "/src/assets/pro-serv-img.png",
+        "electricalTitle": "Электрическое",
+        "mechanicalTitle": "механический",
+        "details": {
+          "electrical": [
+            "Бытовые установки и обслуживание",
+            "Коммерческие установки и обслуживание",
+            "Промышленные установки и обслуживание",
+            "Испытание и проверка проводки",
+            "Поиск неисправностей и диагностика",
+            "Проверка портативного оборудования",
+            "PAT тестирование и другие проверки безопасности"
+          ],
+          "mechanical": [
+            "Системы газовой безопасности с полной взаимной блокировкой",
+            "Проектирование, установка и обслуживание работ с использованием внутренних мастерских"
+          ]
+        }
+      },
+      {
+        "id": "6",
+        "pageName": "Блоги",
+        "button": "Забронировать сейчас",
+
+        "title": "Название Блога 6",
+        "description": "Нас пригласили проконсультировать и улучшить освещение в главном зале. Освещение, которое они использовали, состояло из 500-ваттных галогенных прожекторов, что означало очень высокие счета за электроэнергию и ненужные проблемы с обслуживанием. Наша команда по световому дизайну использовала светодиодный прожектор с экономией энергии на 450 Вт на каждую установку, что привело к огромной экономии и пятилетней гарантии производителя. Церковь очень довольна, так как сэкономленные средства позволили инвестировать в другие области.",
+        "needHelp": "Нужна помощь?",
+        "helpParagraph": "Найти разнорабочего в Вашингтоне для следующей задачи",
+        "btnEnquiry": "Сделать запрос",
+        "image": "/src/assets/contact_head_back_img.jfif",
+        "electricalTitle": "Электрическое",
+        "mechanicalTitle": "механический",
+        "details": {
+          "mechanical": [
+            "Системы высокоскоростного удаления воздуха",
+            "Системы газовой безопасности с полной взаимной блокировкой",
+            "Энергосберегающие схемы LED",
+            "Испытание и проверка проводки",
+            "Поиск неисправностей и диагностика",
+            "Проектирование, установка и обслуживание работ с использованием внутренних мастерских"
+          ]
+        }
+      },
+      {
+        "id": "7",
+        "pageName": "Блоги",
+        "button": "Забронировать сейчас",
+
+        "title": "Название Блога 7",
+        "description": "Нас пригласили проконсультировать и улучшить освещение в главном зале. Освещение, которое они использовали, состояло из 500-ваттных галогенных прожекторов, что означало очень высокие счета за электроэнергию и ненужные проблемы с обслуживанием. Наша команда по световому дизайну использовала светодиодный прожектор с экономией энергии на 450 Вт на каждую установку, что привело к огромной экономии и пятилетней гарантии производителя. Церковь очень довольна, так как сэкономленные средства позволили инвестировать в другие области.",
+        "needHelp": "Нужна помощь?",
+        "helpParagraph": "Найти разнорабочего в Вашингтоне для следующей задачи",
+        "btnEnquiry": "Сделать запрос",
+        "image": "/src/assets/90cbb105777de2f4dab98747dd3aa1a7.jfif",
+        "electricalTitle": "Электрическое",
+        "mechanicalTitle": "механический",
+        "details": {
+          "electrical": [
+            "Бытовые установки и обслуживание",
+            "Коммерческие установки и обслуживание",
+            "Промышленные установки и обслуживание",
+            "Индивидуальные световые проекты",
+            "Энергосберегающие схемы LED",
+            "Испытание и проверка проводки",
+            "Поиск неисправностей и диагностика",
+            "Проверка портативного оборудования",
+            "PAT тестирование и другие проверки безопасности",
+            "Системы высокоскоростного удаления воздуха",
+            "Системы газовой безопасности с полной взаимной блокировкой",
+            "Проектирование, установка и обслуживание работ с использованием внутренних мастерских"
+          ]
+        }
+      }
+    ],
+    "Az": [
+      {
+        "id": "1",
+        "pageName": "Bloqlar",
+        "title": "Blog Başlığı 1",
+        "description": "Biz əsas zaldakı işıqlandırmanı təkmilləşdirmək üçün məsləhətçi kimi dəvət olunduq. İstifadə olunan işıqlar 500W halogen proyektor işıqları idi, bu da çox yüksək enerji xərcləri və lazımsız təmir məsələlərinə səbəb olurdu. İşıqlandırma dizayn komandamız LED yüksək güclü proyektor işıqlarından istifadə etdi, hər qurğu üçün 450w enerji qənaəti ilə həm böyük qənaət, həm də 5 illik istehsalçı zəmanəti verdi. Kilsə çox məmnundur, çünki qənaətləri onlara digər sahələrə sərmayə qoymağa imkan verdi.",
+        "needHelp": "Köməyə ehtiyacınız varmı?",
+        "helpParagraph": "Növbəti işiniz üçün Vaşinqtonda usta tapın",
+        "btnEnquiry": "Sorğu göndərin",
+        "button": "İndi sifariş et",
+        "image": "/src/assets/contact_head_back_img.jfif",
+        "electricalTitle": "Elektrik",
+        "mechanicalTitle": "mexaniki",
+        "details": {
+          "electrical": [
+            "Məişət quraşdırmaları və təmiri",
+            "Ticarət quraşdırmaları və təmiri",
+            "Sənaye quraşdırmaları və təmiri",
+            "Fərdi işıqlandırma dizaynları",
+            "LED enerji qənaət sxemləri",
+            "Sabitlənmiş naqil yoxlanışı və testi",
+            "Səhv aşkarlama və diaqnostika",
+            "Daşınan avadanlıq testi",
+            "PAT testi və digər təhlükəsizlik yoxlamaları"
+          ],
+          "mechanical": [
+            "Yüksək sürətli dodaq çıxarış sistemləri",
+            "Tam Qaz təhlükəsizliyi aralıq təchizatı və çıxarış sistemləri",
+            "Dizayn, quraşdırma və yerində texniki xidmət"
+          ]
+        }
+      },
+      {
+        "id": "2",
+        "pageName": "Bloqlar",
+        "title": "Blog Başlığı 2",
+        "description": "Biz əsas zaldakı işıqlandırmanı təkmilləşdirmək üçün məsləhətçi kimi dəvət olunduq. İstifadə olunan işıqlar 500W halogen proyektor işıqları idi, bu da çox yüksək enerji xərcləri və lazımsız təmir məsələlərinə səbəb olurdu. İşıqlandırma dizayn komandamız LED yüksək güclü proyektor işıqlarından istifadə etdi, hər qurğu üçün 450w enerji qənaəti ilə həm böyük qənaət, həm də 5 illik istehsalçı zəmanəti verdi. Kilsə çox məmnundur, çünki qənaətləri onlara digər sahələrə sərmayə qoymağa imkan verdi.",
+        "needHelp": "Köməyə ehtiyacınız varmı?",
+        "helpParagraph": "Növbəti işiniz üçün Vaşinqtonda usta tapın",
+        "btnEnquiry": "Sorğu göndərin",
+        "button": "İndi sifariş et",
+        "image": "/src/assets/img4.png",
+        "electricalTitle": "Elektrik",
+        "mechanicalTitle": "mexaniki",
+        "details": {
+          "electrical": [
+            "Məişət quraşdırmaları və təmiri",
+            "Ticarət quraşdırmaları və təmiri",
+            "Sənaye quraşdırmaları və təmiri",
+            "Fərdi işıqlandırma dizaynları",
+            "LED enerji qənaət sxemləri",
+            "Sabitlənmiş naqil yoxlanışı və testi",
+            "Səhv aşkarlama və diaqnostika",
+            "Daşınan avadanlıq testi",
+            "PAT testi və digər təhlükəsizlik yoxlamaları"
+          ]
+        }
+      },
+      {
+        "id": "3",
+        "pageName": "Bloqlar",
+        "title": "Blog Başlığı 3",
+        "description": "Biz əsas zaldakı işıqlandırmanı təkmilləşdirmək üçün məsləhətçi kimi dəvət olunduq. İstifadə olunan işıqlar 500W halogen proyektor işıqları idi, bu da çox yüksək enerji xərcləri və lazımsız təmir məsələlərinə səbəb olurdu. İşıqlandırma dizayn komandamız LED yüksək güclü proyektor işıqlarından istifadə etdi, hər qurğu üçün 450w enerji qənaəti ilə həm böyük qənaət, həm də 5 illik istehsalçı zəmanəti verdi. Kilsə çox məmnundur, çünki qənaətləri onlara digər sahələrə sərmayə qoymağa imkan verdi.",
+        "needHelp": "Köməyə ehtiyacınız varmı?",
+        "helpParagraph": "Növbəti işiniz üçün Vaşinqtonda usta tapın",
+        "btnEnquiry": "Sorğu göndərin",
+        "button": "İndi sifariş et",
+        "image": "/src/assets/contact_head_back_img.jfif",
+        "electricalTitle": "Elektrik",
+        "mechanicalTitle": "mexaniki",
+        "details": {
+          "electrical": [
+            "Məişət quraşdırmaları və təmiri",
+            "Ticarət quraşdırmaları və təmiri",
+            "Sənaye quraşdırmaları və təmiri",
+            "Fərdi işıqlandırma dizaynları",
+            "Daşınan avadanlıq testi",
+            "PAT testi və digər təhlükəsizlik yoxlamaları"
+          ],
+          "mechanical": [
+            "Yüksək sürətli dodaq çıxarılması sistemləri",
+            "Tam qaz təhlükəsizlik interlok tədarük və çıxarış sistemləri",
+            "Daxili emalatxana şəraitində işlərin dizaynı, quraşdırılması və təmiri"
+          ]
+        }
+      },
+      {
+        "id": "4",
+        "pageName": "Bloqlar",
+        "title": "Blog Başlığı 4",
+        "description": "Biz əsas zaldakı işıqlandırmanı təkmilləşdirmək üçün məsləhətçi kimi dəvət olunduq. İstifadə olunan işıqlar 500W halogen proyektor işıqları idi, bu da çox yüksək enerji xərcləri və lazımsız təmir məsələlərinə səbəb olurdu. İşıqlandırma dizayn komandamız LED yüksək güclü proyektor işıqlarından istifadə etdi, hər qurğu üçün 450w enerji qənaəti ilə həm böyük qənaət, həm də 5 illik istehsalçı zəmanəti verdi. Kilsə çox məmnundur, çünki qənaətləri onlara digər sahələrə sərmayə qoymağa imkan verdi.",
+        "needHelp": "Köməyə ehtiyacınız varmı?",
+        "button": "İndi sifariş et",
+        "helpParagraph": "Növbəti işiniz üçün Vaşinqtonda usta tapın",
+        "btnEnquiry": "Sorğu göndərin",
+        "image": "/src/assets/projects-detail-img.png",
+        "electricalTitle": "Elektrik",
+        "mechanicalTitle": "mexaniki",
+        "details": {
+          "electrical": [
+            "Məişət quraşdırmaları və təmiri",
+            "Ticarət quraşdırmaları və təmiri",
+            "Sənaye quraşdırmaları və təmiri",
+            "Fərdi işıqlandırma dizaynları",
+            "LED enerji qənaət sxemləri",
+            "Sabit naqil yoxlanışı və testi",
+            "Səhv aşkarlama və diaqnostika",
+            "Daşınan avadanlıq testi",
+            "Ticarət quraşdırmaları və təmiri",
+            "Sənaye quraşdırmaları və təmiri",
+            "Fərdi işıqlandırma dizaynları",
+            "PAT testi və digər təhlükəsizlik yoxlamaları"
+          ],
+          "mechanical": [
+            "Yüksək sürətli dodaq çıxarılması sistemləri",
+            "Tam qaz təhlükəsizlik interlok tədarük və çıxarış sistemləri",
+            "Daxili emalatxana şəraitində işlərin dizaynı, quraşdırılması və təmiri"
+          ]
+        }
+      },
+      {
+        "id": "5",
+        "pageName": "Bloqlar",
+        "title": "Blog Başlığı 5",
+        "description": "Biz əsas zaldakı işıqlandırmanı təkmilləşdirmək üçün məsləhətçi kimi dəvət olunduq. İstifadə olunan işıqlar 500W halogen proyektor işıqları idi, bu da çox yüksək enerji xərcləri və lazımsız təmir məsələlərinə səbəb olurdu. İşıqlandırma dizayn komandamız LED yüksək güclü proyektor işıqlarından istifadə etdi, hər qurğu üçün 450w enerji qənaəti ilə həm böyük qənaət, həm də 5 illik istehsalçı zəmanəti verdi. Kilsə çox məmnundur, çünki qənaətləri onlara digər sahələrə sərmayə qoymağa imkan verdi.",
+        "needHelp": "Köməyə ehtiyacınız varmı?",
+        "button": "İndi sifariş et",
+        "helpParagraph": "Növbəti işiniz üçün Vaşinqtonda usta tapın",
+        "btnEnquiry": "Sorğu göndərin",
+        "image": "/src/assets/pro-serv-img.png",
+        "electricalTitle": "Elektrik",
+        "mechanicalTitle": "mexaniki",
+        "details": {
+          "electrical": [
+            "Məişət quraşdırmaları və təmiri",
+            "Ticarət quraşdırmaları və təmiri",
+            "Sənaye quraşdırmaları və təmiri",
+            "Sabit naqil yoxlanışı və testi",
+            "Səhv aşkarlama və diaqnostika",
+            "Daşınan avadanlıq testi",
+            "PAT testi və digər təhlükəsizlik yoxlamaları"
+          ],
+          "mechanical": [
+            "Tam qaz təhlükəsizlik interlok tədarük və çıxarış sistemləri",
+            "Daxili emalatxana şəraitində işlərin dizaynı, quraşdırılması və təmiri"
+          ]
+        }
+      },
+      {
+        "id": "6",
+        "pageName": "Bloqlar",
+        "title": "Blog Başlığı 6",
+        "description": "Biz əsas zaldakı işıqlandırmanı təkmilləşdirmək üçün məsləhətçi kimi dəvət olunduq. İstifadə olunan işıqlar 500W halogen proyektor işıqları idi, bu da çox yüksək enerji xərcləri və lazımsız təmir məsələlərinə səbəb olurdu. İşıqlandırma dizayn komandamız LED yüksək güclü proyektor işıqlarından istifadə etdi, hər qurğu üçün 450w enerji qənaəti ilə həm böyük qənaət, həm də 5 illik istehsalçı zəmanəti verdi. Kilsə çox məmnundur, çünki qənaətləri onlara digər sahələrə sərmayə qoymağa imkan verdi.",
+        "needHelp": "Köməyə ehtiyacınız varmı?",
+        "button": "İndi sifariş et",
+        "helpParagraph": "Növbəti işiniz üçün Vaşinqtonda usta tapın",
+        "btnEnquiry": "Sorğu göndərin",
+        "image": "/src/assets/contact_head_back_img.jfif",
+        "electricalTitle": "Elektrik",
+        "mechanicalTitle": "mexaniki",
+        "details": {
+          "mechanical": [
+            "Yüksək sürətli dodaq çıxarılması sistemləri",
+            "Tam qaz təhlükəsizlik interlok tədarük və çıxarış sistemləri",
+            "LED enerji qənaət sxemləri",
+            "Sabit naqil yoxlanışı və testi",
+            "Səhv aşkarlama və diaqnostika",
+            "Daxili emalatxana şəraitində işlərin dizaynı, quraşdırılması və təmiri"
+          ]
+        }
+      },
+      {
+        "id": "7",
+        "pageName": "Bloqlar",
+        "title": "Blog Başlığı 7",
+        "description": "Biz əsas zaldakı işıqlandırmanı təkmilləşdirmək üçün məsləhətçi kimi dəvət olunduq. İstifadə olunan işıqlar 500W halogen proyektor işıqları idi, bu da çox yüksək enerji xərcləri və lazımsız təmir məsələlərinə səbəb olurdu. İşıqlandırma dizayn komandamız LED yüksək güclü proyektor işıqlarından istifadə etdi, hər qurğu üçün 450w enerji qənaəti ilə həm böyük qənaət, həm də 5 illik istehsalçı zəmanəti verdi. Kilsə çox məmnundur, çünki qənaətləri onlara digər sahələrə sərmayə qoymağa imkan verdi.",
+        "needHelp": "Köməyə ehtiyacınız varmı?",
+        "button": "İndi sifariş et",
+
+        "helpParagraph": "Növbəti işiniz üçün Vaşinqtonda usta tapın",
+        "btnEnquiry": "Sorğu göndərin",
+        "image": "/src/assets/90cbb105777de2f4dab98747dd3aa1a7.jfif",
+        "electricalTitle": "Elektrik",
+        "mechanicalTitle": "mexaniki",
+        "details": {
+          "electrical": [
+            "Məişət quraşdırmaları və təmiri",
+            "Ticarət quraşdırmaları və təmiri",
+            "Sənaye quraşdırmaları və təmiri",
+            "Fərdi işıqlandırma dizaynları",
+            "LED enerji qənaət sxemləri",
+            "Sabit naqil yoxlanışı və testi",
+            "Səhv aşkarlama və diaqnostika",
+            "Daşınan avadanlıq testi",
+            "PAT testi və digər təhlükəsizlik yoxlamaları",
+            "Yüksək sürətli dodaq çıxarılması sistemləri",
+            "Tam qaz təhlükəsizlik interlok tədarük və çıxarış sistemləri",
+            "Daxili emalatxana şəraitində işlərin dizaynı, quraşdırılması və təmiri"
+          ]
+        }
+      }
+    ]
+  },
+
+  "partners": [
+    {
+      "id": "1",
+      "image": "/src/assets/logo7.png"
+    },
+    {
+      "id": "2",
+      "image": "/src/assets/logo4.jpg"
+    },
+    {
+      "id": "3",
+      "image": "/src/assets/logo4.jpg"
+    },
+    {
+      "id": "4",
+      "image": "/src/assets/logo8.png"
+    },
+    {
+      "id": "5",
+      "image": "/src/assets/logo7.png"
+    },
+    {
+      "id": "6",
+      "image": "/src/assets/logo9.png"
+    },
+    {
+      "id": "7",
+      "image": "/src/assets/logo4.jpg"
+    },
+    {
+      "id": "8",
+      "image": "/src/assets/logo4.jpg"
+    },
+    {
+      "id": "9",
+      "image": "/src/assets/logo7.png"
+    },
+    {
+      "id": "10",
+      "image": "/src/assets/logo8.png"
+    },
+    {
+      "id": "11",
+      "image": "/src/assets/logo9.png"
+    },
+    {
+      "id": "12",
+      "image": "/src/assets/logo4.jpg"
+    },
+    {
+      "id": "13",
+      "image": "/src/assets/logo4.jpg"
+    },
+    {
+      "id": "14",
+      "image": "/src/assets/logo2.png"
+    },
+    {
+      "id": "15",
+      "image": "/src/assets/logo8.png"
+    },
+    {
+      "id": "16",
+      "image": "/src/assets/logo4.jpg"
+    },
+    {
+      "id": "17",
+      "image": "/src/assets/logo8.png"
+    },
+    {
+      "id": "18",
+      "image": "/src/assets/logo5.jpg"
+    },
+    {
+      "id": "19",
+      "image": "/src/assets/logo7.png"
+    },
+    {
+      "id": "20",
+      "image": "/src/assets/logo9.png"
+    }
+  ],
+
+  "about": {
+    "Eng": {
+      "id": "1",
+      "pageName": "About Us",
+      "valuesTitle": "The EMS Brand Values",
+      "title": "About EMS Contracting",
+      "description": "Founded by Mick Donkin and Kris Armstrong in 2013. We incorporate 3 divisions: Smart-metering, Renewables, and Recycling all from our head office in Sunderland. We employ a team of highly skilled engineers delivering multi-disciplinary projects which operate across the UK, offering a 24/7 service including emergency call out. We have a commitment to quality and a strong safety culture, ensuring that every job we do is completed correctly and safely.",
+      "image": "/src/assets/90cbb105777de2f4dab98747dd3aa1a7.jfif",
+      "bgImage": "/src/assets/About-Head-img.jfif",
+      "homeImage": "/src/assets/ec71098de423976dacb7f436dd41ac98.jfif",
+      "homeLogo": "/src/assets/710f06b7be7c86841477d36b0a51c066.png",
+      "seeMore": "see more",
+      "values": [
+        {
+          "value": "INTEGRITY",
+          "description": "Acting with strong ethics is a priority for everyone representing the organization as well as the company’s behaviour as a whole.",
+          "image": "/src/assets/about-brand-values-img.png"
+        },
+        {
+          "value": "Fairness",
+          "description": "Treating everyone with the common decency we all deserve and expect.",
+          "image": "/src/assets/about-brand-values-img.png"
+        },
+        {
+          "value": "Honesty",
+          "description": "It’s not just the best policy, it’s a core business practice to act in a transparent, trustworthy manner that earns the respect of colleagues, customers and the public.",
+          "image": "/src/assets/about-brand-values-img.png"
+        },
+        {
+          "value": "ACCOUNTABILITY",
+          "description": "Accepting responsibility for your actions (and inactions) is the ultimate way to build trust internally and externally.",
+          "image": "/src/assets/about-brand-values-img.png"
+        },
+        {
+          "value": "COMMITMENT TO DELIVER",
+          "description": "Creating a great customer experience begins with staying true to the words we speak and the bonds we make.",
+          "image": "/src/assets/about-brand-values-img.png"
+        },
+        {
+          "value": "DIVERSITY & INCLUSION",
+          "description": "Organisations succeed by bringing different lived experiences and a range of backgrounds into a shared environment where everyone has equal opportunity.",
+          "image": "/src/assets/about-brand-values-img.png"
+        },
+        {
+          "value": "LEARNING",
+          "description": "No one has all the answers. A culture of humility and continuous learning is a bedrock principle of successful companies.",
+          "image": "/src/assets/about-brand-values-img.png"
+        },
+        {
+          "value": "TEAMWORK",
+          "description": "When people work together, they can create something greater than themselves as individuals.",
+          "image": "/src/assets/about-brand-values-img.png"
+        }
+      ]
+    },
+    "Rus": {
+      "id": "1",
+      "pageName": "О нас",
+      "valuesTitle": "Ценности бренда EMS",
+      "title": "EMS Контрактинг",
+      "description": "Основана Миком Донкиным и Крисом Армстронгом в 2013 году. Мы объединяем 3 подразделения: умное измерение, возобновляемые источники энергии и переработку отходов, все из нашего главного офиса в Сандерленде. Мы нанимаем команду высококвалифицированных инженеров, выполняющих многопрофильные проекты, которые работают по всей Великобритании, предлагая круглосуточное обслуживание, включая аварийные вызовы. Мы верим, что люди и наши ценности отличают нас в отрасли.",
+      "image": "/src/assets/90cbb105777de2f4dab98747dd3aa1a7.jfif",
+      "bgImage": "/src/assets/About-Head-img.jfif",
+      "homeImage": "/src/assets/ec71098de423976dacb7f436dd41ac98.jfif",
+      "homeLogo": "/src/assets/710f06b7be7c86841477d36b0a51c066.png",
+      "seeMore": "увидеть больше",
+      "values": [
+        {
+          "value": "ЧЕСТНОСТЬ",
+          "description": "Действовать в соответствии с сильными этическими принципами — это приоритет для каждого, кто представляет организацию, а также для поведения компании в целом.",
+          "image": "/src/assets/about-brand-values-img.png"
+        },
+        {
+          "value": "СПРАВЕДЛИВОСТЬ",
+          "description": "Относиться ко всем с общепринятой порядочностью, которой мы все заслуживаем и ожидаем.",
+          "image": "/src/assets/about-brand-values-img.png"
+        },
+        {
+          "value": "ОТКРЫТОСТЬ",
+          "description": "Это не просто лучшая политика, это основная бизнес-практика — действовать прозрачно, заслуживая уважение коллег, клиентов и общества.",
+          "image": "/src/assets/about-brand-values-img.png"
+        },
+        {
+          "value": "ОТВЕТСТВЕННОСТЬ",
+          "description": "Принятие ответственности за свои действия (и бездействие) — это лучший способ заслужить доверие как внутри компании, так и за ее пределами.",
+          "image": "/src/assets/about-brand-values-img.png"
+        },
+        {
+          "value": "ПРЕДАННОСТЬ",
+          "description": "Создание отличного клиентского опыта начинается с верности нашим словам и обязательствам.",
+          "image": "/src/assets/about-brand-values-img.png"
+        },
+        {
+          "value": "РАЗНООБРАЗИЕ И ИНКЛЮЗИВНОСТЬ",
+          "description": "Организации добиваются успеха, привлекая людей с разным жизненным опытом и из разных слоев общества в общую среду, где у всех есть равные возможности.",
+          "image": "/src/assets/about-brand-values-img.png"
+        },
+        {
+          "value": "ОБУЧЕНИЕ",
+          "description": "Никто не знает всего. Культура скромности и постоянного обучения является краеугольным принципом успешных компаний.",
+          "image": "/src/assets/about-brand-values-img.png"
+        },
+        {
+          "value": "КОМАНДНАЯ РАБОТА",
+          "description": "Когда люди работают вместе, они могут создать что-то большее, чем каждый из них по отдельности.",
+          "image": "/src/assets/about-brand-values-img.png"
+        }
+      ]
+    },
+
+    "Az": {
+      "id": "1",
+      "pageName": "Haqqımızda",
+      "valuesTitle": "EMS Brend Dəyərləri",
+      "title": "EMS Müqaviləsi haqqında",
+      "description": "Mick Donkin və Kris Armstrong tərəfindən 2013-cü ildə təsis edilmişdir. Bizim üç bölməmiz var: Smart-metrik, Yenilənəbilən Enerji və Təkrar emal, hamısı Sanderlenddəki baş ofisimizdən idarə olunur. Biz çox peşəkar mühəndis heyətini işlədirik, çoxsahəli layihələr həyata keçiririk və Böyük Britaniya ərazisində 24/7 xidmət, o cümlədən təcili çağırış xidməti təklif edirik. Biz inanırıq ki, bu dəyərlər və insanlar bizi sahədə fərqləndirən əsas amillərdir.",
+      "image": "/src/assets/90cbb105777de2f4dab98747dd3aa1a7.jfif",
+      "bgImage": "/src/assets/About-Head-img.jfif",
+      "homeImage": "/src/assets/ec71098de423976dacb7f436dd41ac98.jfif",
+      "homeLogo": "/src/assets/710f06b7be7c86841477d36b0a51c066.png",
+      "seeMore": "daha çox görmək",
+      "values": [
+        {
+          "value": "DÜRÜSTLÜK",
+          "description": "Təşkilatı təmsil edən hər kəsin güclü etik qaydalarla hərəkət etməsi, eləcə də şirkətin ümumi davranışı üçün prioritetdir.",
+          "image": "/src/assets/about-brand-values-img.png"
+        },
+        {
+          "value": "ƏDALƏTLİLİK",
+          "description": "Hər kəsə layiq olduğu ortaq ləyaqətlə yanaşmaq.",
+          "image": "/src/assets/about-brand-values-img.png"
+        },
+        {
+          "value": "SƏMİMİYYƏT",
+          "description": "Bu yalnız ən yaxşı siyasət deyil, həmkarların, müştərilərin və ictimaiyyətin hörmətini qazanmaq üçün şəffaf və etibarlı şəkildə hərəkət etmək əsas iş prinsipi kimi qəbul edilir.",
+          "image": "/src/assets/about-brand-values-img.png"
+        },
+        {
+          "value": "MƏSULİYYƏT",
+          "description": "Öz hərəkətlərinizin (və hərəkətsizliklərinizin) məsuliyyətini qəbul etmək daxili və xarici etibar yaratmağın ən əsas yoludur.",
+          "image": "/src/assets/about-brand-values-img.png"
+        },
+        {
+          "value": "ÖHDƏLİK",
+          "description": "Müştəri təcrübəsinin əla olmasını təmin etmək üçün dediyimiz sözlərə və qurduğumuz əlaqələrə sadiq qalmaq vacibdir.",
+          "image": "/src/assets/about-brand-values-img.png"
+        },
+        {
+          "value": "MÜXTƏLİFLİK VƏ DAXİLLİK",
+          "description": "Təşkilatlar, hər kəsin bərabər imkanlara malik olduğu ortaq mühitdə müxtəlif təcrübələr və müxtəlif mənşəyi olan insanları bir araya gətirməklə uğur qazanır.",
+          "image": "/src/assets/about-brand-values-img.png"
+        },
+        {
+          "value": "ÖYRƏNMƏK",
+          "description": "Heç kim bütün cavablara sahib deyil. Təvazökarlıq və davamlı öyrənmə mədəniyyəti uğurlu şirkətlərin əsas prinsipidir.",
+          "image": "/src/assets/about-brand-values-img.png"
+        },
+        {
+          "value": "KOMANDA İŞİ",
+          "description": "İnsanlar birlikdə işlədikdə, fərdi olaraq yaratdıqlarından daha böyük bir şey yarada bilərlər.",
+          "image": "/src/assets/about-brand-values-img.png"
+        }
+      ]
+    }
+  },
+
+  "contact": {
+    "Eng": [
+      {
+        "id": "1",
+        "title": "Contact Us",
+        "name": "Mick Donkin",
+        "email": "parashard641@gmail.com",
+        "image": "/src/assets/team.png",
+        "titleForm": "Get in Touch",
+        "pForm": "Services from us are trusted, reliable and professional. Please fill out the form completely, and we will get back to you as soon as possible",
+        "btnForm": "send",
+        "nameForm": "Name",
+        "emailForm": "Email",
+        "phoneForm": "Phone Number",
+        "selectForm": "How did you find us?",
+        "optionForm": "Social Media",
+        "teamTitle": "MEET OUR BEST TEAM"
+      },
+      {
+        "id": "2",
+        "title": "Contact Us",
+        "name": "Kris Armstrong",
+        "email": "parashard641@gmail.com",
+        "image": "/src/assets/team-member.png",
+        "titleForm": "Get in Touch",
+        "pForm": "Services from us are trusted, reliable and professional. Please fill out the form completely, and we will get back to you as soon as possible",
+        "btnForm": "send",
+        "nameForm": "Name",
+        "emailForm": "Email",
+        "phoneForm": "Phone Number",
+        "selectForm": "How did you find us?",
+        "optionForm": "Social Media",
+        "teamTitle": "MEET OUR BEST TEAM"
+      },
+      {
+        "id": "3",
+        "title": "Contact Us",
+        "name": "Daryl Shepherd",
+        "email": "parashard641@gmail.com",
+        "image": "/src/assets/team2.png",
+        "titleForm": "Get in Touch",
+        "pForm": "Services from us are trusted, reliable and professional. Please fill out the form completely, and we will get back to you as soon as possible",
+        "btnForm": "send",
+        "nameForm": "Name",
+        "emailForm": "Email",
+        "phoneForm": "Phone Number",
+        "selectForm": "How did you find us?",
+        "optionForm": "Social Media",
+        "teamTitle": "MEET OUR BEST TEAM"
+      },
+      {
+        "id": "4",
+        "title": "Contact Us",
+        "name": "Mick Donkin",
+        "email": "parashard641@gmail.com",
+        "image": "/src/assets/team.png",
+        "titleForm": "Get in Touch",
+        "pForm": "Services from us are trusted, reliable and professional. Please fill out the form completely, and we will get back to you as soon as possible",
+        "btnForm": "send",
+        "nameForm": "Name",
+        "emailForm": "Email",
+        "phoneForm": "Phone Number",
+        "selectForm": "How did you find us?",
+        "optionForm": "Social Media",
+        "teamTitle": "MEET OUR BEST TEAM"
+      },
+      {
+        "id": "5",
+        "title": "Contact Us",
+        "name": "Kris Armstrong",
+        "email": "parashard641@gmail.com",
+        "image": "/src/assets/team-member.png",
+        "titleForm": "Get in Touch",
+        "pForm": "Services from us are trusted, reliable and professional. Please fill out the form completely, and we will get back to you as soon as possible",
+        "btnForm": "send",
+        "nameForm": "Name",
+        "emailForm": "Email",
+        "phoneForm": "Phone Number",
+        "selectForm": "How did you find us?",
+        "optionForm": "Social Media",
+        "teamTitle": "MEET OUR BEST TEAM"
+      },
+      {
+        "id": "6",
+        "title": "Contact Us",
+        "name": "Daryl Shepherd",
+        "email": "parashard641@gmail.com",
+        "image": "/src/assets/team2.png",
+        "titleForm": "Get in Touch",
+        "pForm": "Services from us are trusted, reliable and professional. Please fill out the form completely, and we will get back to you as soon as possible",
+        "btnForm": "send",
+        "nameForm": "Name",
+        "emailForm": "Email",
+        "phoneForm": "Phone Number",
+        "selectForm": "How did you find us?",
+        "optionForm": "Social Media",
+        "teamTitle": "MEET OUR BEST TEAM"
+      }
+    ],
+    "Rus": [
+      {
+        "id": "1",
+        "title": "Свяжитесь с нами",
+        "pageName": "Контакт",
+        "name": "Мик Донкин",
+        "email": "parashard641@gmail.com",
+        "image": "/src/assets/team.png",
+        "titleForm": "Свяжитесь с нами",
+        "pForm": "Наши услуги надежны, надежны и профессиональны. Пожалуйста, заполните форму полностью, и мы свяжемся с вами как можно скорее",
+        "btnForm": "отправить",
+        "nameForm": "Имя",
+        "emailForm": "Электронная почта",
+        "phoneForm": "Номер телефона",
+        "selectForm": "Как вы нас нашли?",
+        "optionForm": "Социальные сети",
+        "teamTitle": "ЗНАКОМЬТЕСЬ С НАШЕЙ ЛУЧШЕЙ КОМАНДОЙ"
+      },
+      {
+        "id": "2",
+        "title": "Свяжитесь с нами",
+        "pageName": "Контакт",
+        "name": "Крис Армстронг",
+        "email": "parashard641@gmail.com",
+        "image": "/src/assets/team-member.png",
+        "titleForm": "Свяжитесь с нами",
+        "pForm": "Наши услуги надежны, надежны и профессиональны. Пожалуйста, заполните форму полностью, и мы свяжемся с вами как можно скорее",
+        "btnForm": "отправить",
+        "nameForm": "Имя",
+        "emailForm": "Электронная почта",
+        "phoneForm": "Номер телефона",
+        "selectForm": "Как вы нас нашли?",
+        "optionForm": "Социальные сети",
+        "teamTitle": "ЗНАКОМЬТЕСЬ С НАШЕЙ ЛУЧШЕЙ КОМАНДОЙ"
+      },
+      {
+        "id": "3",
+        "title": "Свяжитесь с нами",
+        "pageName": "Контакт",
+        "name": "Дэрил Шеперд",
+        "email": "parashard641@gmail.com",
+        "image": "/src/assets/team2.png",
+        "titleForm": "Свяжитесь с нами",
+        "pForm": "Наши услуги надежны, надежны и профессиональны. Пожалуйста, заполните форму полностью, и мы свяжемся с вами как можно скоре",
+        "btnForm": "отправить",
+        "nameForm": "Имя",
+        "emailForm": "Электронная почта",
+        "phoneForm": "Номер телефона",
+        "selectForm": "Как вы нас нашли?",
+        "optionForm": "Социальные сети",
+        "teamTitle": "ЗНАКОМЬТЕСЬ С НАШЕЙ ЛУЧШЕЙ КОМАНДОЙ"
+      },
+      {
+        "id": "4",
+        "title": "Свяжитесь с нами",
+        "pageName": "Контакт",
+        "name": "Мик Донкин",
+        "email": "parashard641@gmail.com",
+        "image": "/src/assets/team.png",
+        "titleForm": "Свяжитесь с нами",
+        "pForm": "Наши услуги надежны, надежны и профессиональны. Пожалуйста, заполните форму полностью, и мы свяжемся с вами как можно скорее",
+        "btnForm": "отправить",
+        "nameForm": "Имя",
+        "emailForm": "Электронная почта",
+        "phoneForm": "Номер телефона",
+        "selectForm": "Как вы нас нашли?",
+        "optionForm": "Социальные сети",
+        "teamTitle": "ЗНАКОМЬТЕСЬ С НАШЕЙ ЛУЧШЕЙ КОМАНДОЙ"
+      },
+      {
+        "id": "5",
+        "title": "Свяжитесь с нами",
+        "pageName": "Контакт",
+        "name": "Крис Армстронг",
+        "email": "parashard641@gmail.com",
+        "image": "/src/assets/team-member.png",
+        "titleForm": "Свяжитесь с нами",
+        "pForm": "Наши услуги надежны, надежны и профессиональны. Пожалуйста, заполните форму полностью, и мы свяжемся с вами как можно скорее",
+        "btnForm": "отправить",
+        "nameForm": "Имя",
+        "emailForm": "Электронная почта",
+        "phoneForm": "Номер телефона",
+        "selectForm": "Как вы нас нашли?",
+        "optionForm": "Социальные сети",
+        "teamTitle": "ЗНАКОМЬТЕСЬ С НАШЕЙ ЛУЧШЕЙ КОМАНДОЙ"
+      },
+      {
+        "id": "6",
+        "title": "Свяжитесь с нами",
+        "pageName": "Контакт",
+        "name": "Дэрил Шеперд",
+        "email": "parashard641@gmail.com",
+        "image": "/src/assets/team2.png",
+        "titleForm": "Свяжитесь с нами",
+        "pForm": "Наши услуги надежны, надежны и профессиональны. Пожалуйста, заполните форму полностью, и мы свяжемся с вами как можно скоре",
+        "btnForm": "отправить",
+        "nameForm": "Имя",
+        "emailForm": "Электронная почта",
+        "phoneForm": "Номер телефона",
+        "selectForm": "Как вы нас нашли?",
+        "optionForm": "Социальные сети",
+        "teamTitle": "ЗНАКОМЬТЕСЬ С НАШЕЙ ЛУЧШЕЙ КОМАНДОЙ"
+      }
+    ],
+    "Az": [
+      {
+        "id": "1",
+        "title": "Bizimlə əlaqə",
+        "pageName": "Kontakt",
+        "name": "Mick Donkin",
+        "email": "parashard641@gmail.com",
+        "image": "/src/assets/team.png",
+        "titleForm": "Əlaqə əldə edin",
+        "pForm": "Bizim xidmətlər etibarlı, etibarlı və peşəkardır. Zəhmət olmasa formanı tam doldurun, biz sizə ən qısa zamanda cavab verəcəyik",
+        "btnForm": "göndər",
+        "nameForm": "Ad",
+        "emailForm": "E-poçt",
+        "phoneForm": "Telefon nömrəsi",
+        "selectForm": "Bizi necə tapdınız?",
+        "optionForm": "Sosial Media",
+        "teamTitle": "ƏN ƏN YAXŞI KOMANDALARIMIZLA TANIŞ OLUN"
+      },
+      {
+        "id": "2",
+        "title": "Bizimlə əlaqə ",
+        "pageName": "Kontakt",
+        "name": "Kris Armstronq",
+        "email": "parashard641@gmail.com",
+        "image": "/src/assets/team-member.png",
+        "titleForm": "Əlaqə əldə edin",
+        "pForm": "Bizim xidmətlər etibarlı, etibarlı və peşəkardır. Zəhmət olmasa formanı tam doldurun, biz sizə ən qısa zamanda cavab verəcəyik",
+        "btnForm": "göndər",
+        "nameForm": "Ad",
+        "emailForm": "E-poçt",
+        "phoneForm": "Telefon nömrəsi",
+        "selectForm": "Bizi necə tapdınız?",
+        "optionForm": "Sosial Media",
+        "teamTitle": "ƏN ƏN YAXŞI KOMANDALARIMIZLA TANIŞ OLUN"
+      },
+      {
+        "id": "3",
+        "title": "Bizimlə əlaqə ",
+        "pageName": "Kontakt",
+        "name": "Daryl Shepherd",
+        "email": "parashard641@gmail.com",
+        "image": "/src/assets/team2.png",
+        "titleForm": "Əlaqə əldə edin",
+        "pForm": "Bizim xidmətlər etibarlı, etibarlı və peşəkardır. Zəhmət olmasa formanı tam doldurun, biz sizə ən qısa zamanda cavab verəcəyik",
+        "btnForm": "göndər",
+        "nameForm": "Ad",
+        "emailForm": "E-poçt",
+        "phoneForm": "Telefon nömrəsi",
+        "selectForm": "Bizi necə tapdınız?",
+        "optionForm": "Sosial Media",
+        "teamTitle": "ƏN ƏN YAXŞI KOMANDALARIMIZLA TANIŞ OLUN"
+      },
+      {
+        "id": "4",
+        "title": "Bizimlə əlaqə",
+        "pageName": "Kontakt",
+        "name": "Mick Donkin",
+        "email": "parashard641@gmail.com",
+        "image": "/src/assets/team.png",
+        "titleForm": "Əlaqə əldə edin",
+        "pForm": "Bizim xidmətlər etibarlı, etibarlı və peşəkardır. Zəhmət olmasa formanı tam doldurun, biz sizə ən qısa zamanda cavab verəcəyik",
+        "btnForm": "göndər",
+        "nameForm": "Ad",
+        "emailForm": "E-poçt",
+        "phoneForm": "Telefon nömrəsi",
+        "selectForm": "Bizi necə tapdınız?",
+        "optionForm": "Sosial Media",
+        "teamTitle": "ƏN ƏN YAXŞI KOMANDALARIMIZLA TANIŞ OLUN"
+      },
+      {
+        "id": "5",
+        "title": "Bizimlə əlaqə",
+        "pageName": "Kontakt",
+        "name": "Kris Armstronq",
+        "email": "parashard641@gmail.com",
+        "image": "/src/assets/team-member.png",
+        "titleForm": "Əlaqə əldə edin",
+        "pForm": "Bizim xidmətlər etibarlı, etibarlı və peşəkardır. Zəhmət olmasa formanı tam doldurun, biz sizə ən qısa zamanda cavab verəcəyik",
+        "btnForm": "göndər",
+        "nameForm": "Ad",
+        "emailForm": "E-poçt",
+        "phoneForm": "Telefon nömrəsi",
+        "selectForm": "Bizi necə tapdınız?",
+        "optionForm": "Sosial Media",
+        "teamTitle": "ƏN ƏN YAXŞI KOMANDALARIMIZLA TANIŞ OLUN"
+      },
+      {
+        "id": "6",
+        "title": "Bizimlə əlaqə",
+        "pageName": "Kontakt",
+        "name": "Daryl Shepherd",
+        "email": "parashard641@gmail.com",
+        "image": "/src/assets/team2.png",
+        "titleForm": "Əlaqə əldə edin",
+        "pForm": "Bizim xidmətlər etibarlı, etibarlı və peşəkardır. Zəhmət olmasa formanı tam doldurun, biz sizə ən qısa zamanda cavab verəcəyik",
+        "btnForm": "göndər",
+        "nameForm": "Ad",
+        "emailForm": "E-poçt",
+        "phoneForm": "Telefon nömrəsi",
+        "selectForm": "Bizi necə tapdınız?",
+        "optionForm": "Sosial Media",
+        "teamTitle": "ƏN ƏN YAXŞI KOMANDALARIMIZLA TANIŞ OLUN"
+      }
+    ]
+  }
+}

@@ -1,0 +1,138 @@
+.getintouch__backcolor {
+  background: linear-gradient(to right, transparent 70%, #e48e33 30%);
+  padding: 6.4rem 0;
+  margin: 5rem 0;
+}
+
+.getintouch__map {
+  display: flex;
+  flex-direction: row;
+  gap: 14rem;
+  align-items: center;
+}
+
+.get__in__touch {
+  width: 45%;
+}
+
+.get__in__touch h4 {
+  width: 100%;
+  font-family: Poppins;
+  font-size: 5rem;
+  font-weight: 700;
+  line-height: 8.1rem;
+  text-align: left;
+}
+
+.get__in__touch span {
+  color: #e48e33;
+}
+
+.get__in__touch p {
+  font-family: Poppins;
+  font-size: 1.4rem;
+  font-weight: 600;
+  line-height: 2.4rem;
+  letter-spacing: 0.01em;
+  text-align: left;
+  padding-bottom: 4rem;
+  width: 100%;
+}
+
+.form {
+  display: flex;
+  flex-direction: column;
+  gap: 2rem;
+}
+
+input[type="text"],
+input[type="email"],
+input[type="tel"],
+select {
+  width: 100%;
+  height: 3rem;
+  padding: 1rem 2rem;
+  gap: 1rem;
+  border: 0.1rem solid #e0e0e0;
+  cursor: pointer;
+}
+
+.btn__send {
+  background-color: #e48e33;
+  color: #fff;
+  width: 100%;
+  height: 3rem;
+  padding: 1.2rem 2rem;
+  cursor: pointer;
+}
+
+.map {
+  width: 40%;
+}
+
+.tel__fax__email {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  margin-top: 6rem;
+}
+
+.phone,
+.fax,
+.email {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  gap: 1rem;
+}
+
+.tel__fax__email h6 {
+  font-family: Poppins;
+  font-size: 1.3rem;
+  font-weight: 400;
+  line-height: 2rem;
+  letter-spacing: 0.02em;
+  text-align: left;
+}
+
+.tel__fax__email img {
+  width: 2.8rem;
+  height: 2.8rem;
+}
+
+.contact__link {
+  color: #e48e33;
+  font-size: 1.3rem;
+}
+
+@media screen and (max-width: 320px) {
+  .getintouch__backcolor {
+    background: none;
+  }
+  .get__in__touch h4 {
+    width: 100%;
+    font-size: 4rem;
+  }
+  .getintouch__map {
+    display: flex;
+    flex-wrap: wrap;
+  }
+
+  .tel__fax__email {
+    display: flex;
+    /* flex-wrap: wrap; */
+    flex-direction: column;
+    gap: 2rem;
+  }
+
+  .get__in__touch {
+    width: 80%;
+  }
+  .btn__send {
+    border: 2px solid #fff;
+  }
+
+  .map {
+    width: 92%;
+  }
+}
